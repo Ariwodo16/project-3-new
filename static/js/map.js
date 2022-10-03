@@ -1,5 +1,6 @@
 var usCoords = [37.09, -95.71];
-var mapZoomLevel = 5;
+var mapZoomLevel = 4.5
+;
 
 // Create the createMap function.
 function createMap(ownerLayer, redLayer, blueLayer)

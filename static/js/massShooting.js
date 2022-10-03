@@ -14,7 +14,7 @@ d3.json("./json_data/clean_massShooting.json").then((data) => {
         year_array.push(data[key].Year);
         state_array.push(data[key].State);
         city_array.push(data[key].City_Or_County);
-        kill_array.push(data[key].Killed);
+        kill_array.kpush(data[key].Killed);
         injure_array.push(data[key].Injured);
     };
 
