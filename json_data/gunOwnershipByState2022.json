@@ -14,7 +14,7 @@
         },
         {
             "State": "Alaska",
-            "coordinate":[64.2008, -149.4937],
+            "coordinate":[66.160507, -153.369141],
             "gunOwnership": "0.6450",
             "totalGuns": "15824"
         },
@@ -296,7 +296,7 @@
         },
         {
             "State": "New Jersey",
-            "coordinate":[40.0583, 74.4057],
+            "coordinate":[40.0583, -74.4057],
             "gunOwnership": "0.1470",
             "totalGuns": "57505"
         }
