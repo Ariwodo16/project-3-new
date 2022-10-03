@@ -118,5 +118,5 @@ var blueTeam = [];
 }
 
 // Perform an API call to the gun ownership json to get the station information. Call createMarkers when it completes.
-d3.json("./clean_json/gunOwnershipByState2022.json").then(createMarkers)
+d3.json("./json_data/gunOwnershipByState2022.json").then(createMarkers)
 ;
