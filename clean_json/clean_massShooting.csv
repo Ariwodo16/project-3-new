@@ -1,0 +1,2001 @@
+Year,Date,State,City_Or_County,Killed,Injured
+2022,27-Sep-22,Pennsylvania,Philadelphia,1,4
+2022,27-Sep-22,New York,Corona (Queens),0,4
+2022,25-Sep-22,Pennsylvania,Harrisburg,0,4
+2022,25-Sep-22,Indiana,Hammond,1,3
+2022,24-Sep-22,Ohio,Columbus,1,3
+2022,24-Sep-22,Georgia,Louisville,1,3
+2022,23-Sep-22,California,Castroville,0,4
+2022,22-Sep-22,Illinois,Chicago,0,4
+2022,20-Sep-22,New York,Mount Vernon,0,4
+2022,20-Sep-22,Michigan,Niles,2,3
+2022,19-Sep-22,Georgia,Swainsboro,1,3
+2022,18-Sep-22,Wisconsin,Kenosha,2,2
+2022,18-Sep-22,Michigan,Allendale,0,4
+2022,18-Sep-22,Nevada,Las Vegas,0,5
+2022,18-Sep-22,New York,Corona (Queens),1,3
+2022,17-Sep-22,Missouri,Blue Springs,0,5
+2022,17-Sep-22,Minnesota,Minneapolis,0,5
+2022,16-Sep-22,Wisconsin,Milwaukee,0,5
+2022,14-Sep-22,Wisconsin,Milwaukee,0,4
+2022,14-Sep-22,Florida,Miami (North Miami),0,5
+2022,14-Sep-22,California,Los Angeles,0,4
+2022,13-Sep-22,Illinois,Chicago,2,7
+2022,13-Sep-22,California,Oakland,0,4
+2022,12-Sep-22,Oklahoma,Oklahoma City,0,4
+2022,11-Sep-22,New Mexico,Santa Fe,0,5
+2022,11-Sep-22,Michigan,Grand Rapids,0,4
+2022,11-Sep-22,Michigan,Detroit,0,4
+2022,11-Sep-22,North Carolina,Durham,1,3
+2022,10-Sep-22,Indiana,Plainfield,2,2
+2022,10-Sep-22,Kentucky,Lexington,0,4
+2022,9-Sep-22,New York,Bronx,0,4
+2022,9-Sep-22,Maryland,Elk Mills,5,0
+2022,9-Sep-22,Minnesota,Minneapolis,1,3
+2022,8-Sep-22,Minnesota,Minneapolis,0,4
+2022,8-Sep-22,California,Los Angeles,0,4
+2022,7-Sep-22,Tennessee,Memphis,3,3
+2022,5-Sep-22,Missouri,Kansas City,2,2
+2022,5-Sep-22,Georgia,Hartwell,2,2
+2022,5-Sep-22,Ohio,Cleveland,1,10
+2022,5-Sep-22,Pennsylvania,Philadelphia,2,4
+2022,5-Sep-22,Missouri,Saint Louis,0,4
+2022,4-Sep-22,Minnesota,Saint Paul,3,2
+2022,4-Sep-22,Virginia,Norfolk,2,5
+2022,4-Sep-22,Florida,Fort Lauderdale (Lauderdale Lakes),0,4
+2022,4-Sep-22,Illinois,Chicago,2,2
+2022,4-Sep-22,South Carolina,Charleston,0,5
+2022,3-Sep-22,California,Chico,0,5
+2022,3-Sep-22,Illinois,Yorkville,0,4
+2022,3-Sep-22,Delaware,Dover,0,4
+2022,3-Sep-22,Alabama,Birmingham,2,2
+2022,3-Sep-22,Maryland,Capitol Heights,1,3
+2022,2-Sep-22,California,Fresno,2,3
+2022,2-Sep-22,Minnesota,Minneapolis,0,4
+2022,2-Sep-22,New York,Brooklyn,0,4
+2022,29-Aug-22,Missouri,Saint Louis (Jennings),0,4
+2022,28-Aug-22,Wisconsin,Clinton,0,4
+2022,28-Aug-22,Oregon,Bend,3,2
+2022,28-Aug-22,New York,Albany,0,6
+2022,28-Aug-22,Colorado,Denver,1,3
+2022,28-Aug-22,Michigan,Detroit,3,1
+2022,28-Aug-22,California,Los Angeles,0,6
+2022,28-Aug-22,Arizona,Phoenix,3,5
+2022,28-Aug-22,Texas,Houston,4,2
+2022,27-Aug-22,New York,Brooklyn,1,4
+2022,27-Aug-22,Washington,Spokane,1,3
+2022,27-Aug-22,Kentucky,Lexington,0,7
+2022,25-Aug-22,Kentucky,Henderson,2,2
+2022,25-Aug-22,Washington,Spokane,0,4
+2022,25-Aug-22,Alabama,Birmingham,1,3
+2022,24-Aug-22,Illinois,Chicago,0,4
+2022,24-Aug-22,District of Columbia,Washington,2,3
+2022,24-Aug-22,Maryland,Baltimore,1,6
+2022,24-Aug-22,Wisconsin,Milwaukee,1,3
+2022,23-Aug-22,Pennsylvania,Philadelphia,2,2
+2022,21-Aug-22,Tennessee,Memphis,1,3
+2022,21-Aug-22,California,San Francisco,1,3
+2022,20-Aug-22,Delaware,Wilmington,0,4
+2022,20-Aug-22,North Carolina,Asheville,0,4
+2022,20-Aug-22,Illinois,Chicago,0,5
+2022,19-Aug-22,Illinois,Chicago,1,4
+2022,19-Aug-22,Illinois,Chicago,0,4
+2022,18-Aug-22,Virginia,Norfolk,3,2
+2022,17-Aug-22,Illinois,Chicago,0,4
+2022,17-Aug-22,Pennsylvania,Philadelphia,0,4
+2022,16-Aug-22,Michigan,Paw Paw,0,4
+2022,16-Aug-22,Pennsylvania,Philadelphia,0,5
+2022,16-Aug-22,Tennessee,Memphis,0,6
+2022,14-Aug-22,Arizona,Phoenix,1,4
+2022,14-Aug-22,Illinois,Chicago,1,4
+2022,14-Aug-22,Maryland,Baltimore,1,3
+2022,13-Aug-22,Ohio,Cleveland,1,4
+2022,13-Aug-22,North Carolina,Raleigh,0,6
+2022,13-Aug-22,Georgia,Atlanta (College Park),1,4
+2022,13-Aug-22,Washington,Renton,0,4
+2022,12-Aug-22,Missouri,Saint Louis,1,3
+2022,12-Aug-22,Pennsylvania,Philadelphia,0,4
+2022,10-Aug-22,Mississippi,Winona,1,3
+2022,8-Aug-22,Virginia,Richmond,0,4
+2022,7-Aug-22,Georgia,Atlanta,2,4
+2022,7-Aug-22,Ohio,Cincinnati,0,9
+2022,7-Aug-22,Pennsylvania,Pittsburgh,1,3
+2022,7-Aug-22,Alabama,Birmingham,1,4
+2022,6-Aug-22,Michigan,Detroit,1,4
+2022,6-Aug-22,Michigan,Detroit,1,6
+2022,6-Aug-22,Pennsylvania,Duquesne,0,4
+2022,5-Aug-22,Virginia,Norfolk,0,4
+2022,5-Aug-22,Ohio,Dayton,4,0
+2022,5-Aug-22,Wisconsin,Milwaukee,0,4
+2022,4-Aug-22,Tennessee,Nashville,1,3
+2022,4-Aug-22,Nebraska,Laurel,4,0
+2022,3-Aug-22,California,Panorama City,1,4
+2022,3-Aug-22,Florida,Miami,0,5
+2022,2-Aug-22,New York,Albany,0,5
+2022,2-Aug-22,Florida,Orlando,5,0
+2022,1-Aug-22,Ohio,Columbus,2,3
+2022,1-Aug-22,California,Paramount,1,3
+2022,1-Aug-22,District of Columbia,Washington,1,5
+2022,31-Jul-22,Indiana,South Bend,0,4
+2022,31-Jul-22,Florida,Orlando,0,7
+2022,31-Jul-22,Indiana,Indianapolis,0,4
+2022,31-Jul-22,Michigan,Detroit,2,6
+2022,31-Jul-22,Illinois,Decatur,1,3
+2022,31-Jul-22,Connecticut,Hartford,0,4
+2022,30-Jul-22,Illinois,Wheeling,0,5
+2022,30-Jul-22,Louisiana,Monroe,1,3
+2022,30-Jul-22,Georgia,Girard,1,4
+2022,29-Jul-22,Maryland,Baltimore,2,2
+2022,29-Jul-22,New Mexico,Albuquerque,1,4
+2022,29-Jul-22,Ohio,Cleveland,1,3
+2022,29-Jul-22,Florida,Miami,0,4
+2022,27-Jul-22,Georgia,Macon,2,2
+2022,27-Jul-22,Louisiana,Hahnville,1,3
+2022,25-Jul-22,Louisiana,New Orleans,0,4
+2022,24-Jul-22,South Carolina,Bennettsville,1,3
+2022,24-Jul-22,California,San Pedro,2,6
+2022,24-Jul-22,Georgia,Atlanta,0,8
+2022,24-Jul-22,Texas,Fort Worth,1,3
+2022,23-Jul-22,Virginia,Richmond,0,5
+2022,23-Jul-22,Texas,El Paso,0,4
+2022,23-Jul-22,North Carolina,Pinebluff,1,4
+2022,23-Jul-22,Illinois,Rockford,2,2
+2022,23-Jul-22,Washington,Renton,1,6
+2022,23-Jul-22,Illinois,Chicago,0,4
+2022,23-Jul-22,Illinois,Chicago,0,4
+2022,23-Jul-22,Michigan,Kalamazoo,0,9
+2022,21-Jul-22,California,Los Angeles,0,5
+2022,19-Jul-22,Nebraska,Lincoln,0,4
+2022,18-Jul-22,Georgia,Atlanta,0,5
+2022,17-Jul-22,Washington,Mount Vernon,0,5
+2022,17-Jul-22,New York,Brooklyn,0,4
+2022,17-Jul-22,Michigan,Detroit,0,4
+2022,17-Jul-22,Indiana,Greenwood,4,2
+2022,17-Jul-22,Indiana,Beech Grove,1,3
+2022,17-Jul-22,Michigan,Grand Rapids,0,4
+2022,17-Jul-22,Georgia,Milledgeville,0,5
+2022,17-Jul-22,New Jersey,Newark,0,4
+2022,17-Jul-22,Washington,Vancouver,2,2
+2022,16-Jul-22,District of Columbia,Washington,1,3
+2022,16-Jul-22,Ohio,Columbus,2,2
+2022,16-Jul-22,South Carolina,North Charleston,0,4
+2022,16-Jul-22,Texas,Houston,4,0
+2022,16-Jul-22,Louisiana,Monroe,0,5
+2022,16-Jul-22,Pennsylvania,Philadelphia,0,4
+2022,14-Jul-22,Illinois,Chicago,0,4
+2022,14-Jul-22,Pennsylvania,Philadelphia,0,4
+2022,13-Jul-22,Pennsylvania,Philadelphia,0,4
+2022,13-Jul-22,Indiana,Indianapolis,1,3
+2022,13-Jul-22,Minnesota,Minneapolis,0,4
+2022,12-Jul-22,Massachusetts,Boston,0,4
+2022,11-Jul-22,Mississippi,Jackson,0,4
+2022,10-Jul-22,Illinois,Crest Hill,1,4
+2022,10-Jul-22,California,Downey,3,2
+2022,10-Jul-22,Texas,Alvin,1,3
+2022,10-Jul-22,Illinois,Chicago,0,4
+2022,10-Jul-22,Missouri,Kansas City,1,5
+2022,10-Jul-22,New York,Brooklyn,0,5
+2022,9-Jul-22,Alabama,Jacksons Gap,0,4
+2022,8-Jul-22,North Carolina,Greensboro,0,4
+2022,8-Jul-22,Michigan,Detroit,0,4
+2022,7-Jul-22,Illinois,Chicago,0,4
+2022,6-Jul-22,Florida,Tampa,0,4
+2022,6-Jul-22,Illinois,Chicago,0,4
+2022,6-Jul-22,Minnesota,Saint Cloud,0,4
+2022,5-Jul-22,Ohio,Steubenville,0,4
+2022,5-Jul-22,Indiana,Gary,3,7
+2022,5-Jul-22,New York,Rochester,1,3
+2022,4-Jul-22,Massachusetts,Boston,0,4
+2022,4-Jul-22,Minnesota,Minneapolis,0,7
+2022,4-Jul-22,Wisconsin,Kenosha,1,4
+2022,4-Jul-22,California,Sacramento,1,4
+2022,4-Jul-22,Illinois,Highland Park,8,29
+2022,4-Jul-22,Missouri,Kansas City,0,4
+2022,4-Jul-22,Colorado,Denver,1,3
+2022,4-Jul-22,New York,Corona (Queens),0,4
+2022,4-Jul-22,Illinois,Chicago,0,5
+2022,4-Jul-22,Virginia,Richmond,0,6
+2022,3-Jul-22,Virginia,Manassas,0,4
+2022,3-Jul-22,South Carolina,Mullins,0,4
+2022,3-Jul-22,Arizona,Surprise,3,4
+2022,3-Jul-22,Washington,Tacoma,0,4
+2022,2-Jul-22,Texas,Haltom City,3,4
+2022,2-Jul-22,New York,Corona (Queens),1,3
+2022,2-Jul-22,North Carolina,Clinton,0,6
+2022,1-Jul-22,Illinois,Chicago,0,4
+2022,1-Jul-22,Mississippi,Greenwood,1,7
+2022,1-Jul-22,Illinois,Chicago,2,3
+2022,30-Jun-22,Kentucky,Allen,3,5
+2022,30-Jun-22,New Jersey,Newark,0,9
+2022,29-Jun-22,New Jersey,Jersey City,0,4
+2022,29-Jun-22,Pennsylvania,Philadelphia,0,4
+2022,27-Jun-22,North Carolina,Charlotte,0,5
+2022,26-Jun-22,Georgia,Blakely,1,6
+2022,26-Jun-22,Virginia,Sutherlin,1,7
+2022,26-Jun-22,New Jersey,Paterson,0,5
+2022,26-Jun-22,Texas,San Antonio,1,3
+2022,26-Jun-22,Texas,Winona,0,5
+2022,26-Jun-22,Washington,Tacoma,0,8
+2022,25-Jun-22,New York,Brooklyn,0,4
+2022,25-Jun-22,Texas,Houston,2,2
+2022,25-Jun-22,Minnesota,Minneapolis,0,4
+2022,24-Jun-22,Virginia,Hopewell,2,2
+2022,24-Jun-22,Pennsylvania,Philadelphia,2,2
+2022,23-Jun-22,Illinois,Chicago,1,3
+2022,20-Jun-22,New York,New York (Manhattan),1,8
+2022,20-Jun-22,New York,Staten Island,0,5
+2022,19-Jun-22,District of Columbia,Washington,1,3
+2022,19-Jun-22,Michigan,Detroit,1,3
+2022,19-Jun-22,Michigan,Grand Rapids,0,4
+2022,19-Jun-22,Florida,Miami,0,5
+2022,19-Jun-22,South Carolina,Walterboro,2,2
+2022,18-Jun-22,Texas,San Antonio,2,5
+2022,18-Jun-22,Florida,Pensacola,0,5
+2022,17-Jun-22,Maryland,Baltimore,0,4
+2022,17-Jun-22,Illinois,Chicago,0,5
+2022,16-Jun-22,California,Oakland,1,4
+2022,12-Jun-22,California,Los Angeles,3,4
+2022,12-Jun-22,Michigan,Roseville,0,4
+2022,12-Jun-22,Indiana,Gary,2,4
+2022,12-Jun-22,Indiana,Indianapolis,0,5
+2022,12-Jun-22,Louisiana,New Orleans,0,4
+2022,12-Jun-22,Colorado,Denver,2,4
+2022,11-Jun-22,New Mexico,Alamogordo,0,5
+2022,11-Jun-22,Michigan,Detroit,0,4
+2022,11-Jun-22,Illinois,Chicago,1,4
+2022,11-Jun-22,Georgia,Atlanta (College Park),0,7
+2022,11-Jun-22,Tennessee,Antioch,2,2
+2022,11-Jun-22,Kentucky,Louisville,0,6
+2022,10-Jun-22,Georgia,Decatur,1,3
+2022,9-Jun-22,Maryland,Smithsburg,3,3
+2022,8-Jun-22,Arizona,Yuma,0,4
+2022,7-Jun-22,Virginia,Portsmouth,4,0
+2022,7-Jun-22,Illinois,Chicago,0,4
+2022,7-Jun-22,Maryland,Baltimore,2,2
+2022,7-Jun-22,Illinois,Chicago,0,4
+2022,5-Jun-22,Arizona,Mesa,2,2
+2022,5-Jun-22,Tennessee,Chattanooga,2,12
+2022,5-Jun-22,South Carolina,Andrews,0,5
+2022,5-Jun-22,Michigan,Grand Rapids,1,3
+2022,5-Jun-22,Michigan,Saginaw,3,2
+2022,4-Jun-22,Michigan,Ecorse,0,4
+2022,4-Jun-22,South Carolina,Summerton,1,7
+2022,4-Jun-22,Georgia,Macon,2,2
+2022,4-Jun-22,Texas,El Paso (Socorro),0,5
+2022,4-Jun-22,Pennsylvania,Philadelphia,3,11
+2022,4-Jun-22,Arizona,Phoenix,1,8
+2022,4-Jun-22,New York,Hempstead,1,3
+2022,3-Jun-22,Nebraska,Omaha,1,3
+2022,3-Jun-22,Virginia,Chester,1,5
+2022,2-Jun-22,Texas,Centerville,6,0
+2022,1-Jun-22,Oklahoma,Tulsa,5,0
+2022,31-May-22,Texas,Waco,0,4
+2022,30-May-22,Michigan,Benton Harbor,1,6
+2022,30-May-22,South Carolina,Charleston,0,9
+2022,30-May-22,Pennsylvania,Philadelphia,2,2
+2022,29-May-22,Oklahoma,Taft,1,7
+2022,29-May-22,Illinois,Chicago,1,4
+2022,29-May-22,Texas,Houston,0,4
+2022,29-May-22,Illinois,Chicago,0,5
+2022,29-May-22,Arizona,Phoenix,1,5
+2022,29-May-22,Nevada,Henderson,0,7
+2022,28-May-22,Tennessee,Chattanooga,0,6
+2022,28-May-22,California,Fresno,1,3
+2022,28-May-22,Florida,Malabar,0,4
+2022,28-May-22,Colorado,Colorado Springs,1,3
+2022,28-May-22,California,Merced,1,3
+2022,28-May-22,Tennessee,Memphis,0,4
+2022,27-May-22,Alabama,Anniston,0,6
+2022,27-May-22,Michigan,Stanwood,4,1
+2022,25-May-22,Pennsylvania,Philadelphia,0,4
+2022,24-May-22,Texas,Uvalde,22,17
+2022,23-May-22,South Carolina,North Charleston,0,5
+2022,23-May-22,Ohio,Cleveland,0,5
+2022,21-May-22,Indiana,Goshen,2,3
+2022,21-May-22,Washington,Tacoma,0,4
+2022,20-May-22,Florida,Kissimmee,1,3
+2022,20-May-22,Louisiana,New Orleans,1,3
+2022,20-May-22,California,Highland,1,8
+2022,19-May-22,Illinois,Chicago,2,7
+2022,18-May-22,Pennsylvania,Philadelphia,0,5
+2022,17-May-22,California,Palo Alto (East Palo Alto),1,3
+2022,15-May-22,California,Laguna Woods,1,5
+2022,15-May-22,North Carolina,Winston Salem (Winston-salem),0,7
+2022,15-May-22,North Carolina,Elizabeth City,0,4
+2022,15-May-22,Texas,Houston,2,3
+2022,15-May-22,Texas,Amarillo,1,4
+2022,14-May-22,New York,Buffalo,10,3
+2022,13-May-22,Wisconsin,Milwaukee,0,16
+2022,13-May-22,Louisiana,Napoleonville,0,5
+2022,12-May-22,Arkansas,Hot Springs National Park (Hot Springs),1,4
+2022,11-May-22,Illinois,Chicago,0,4
+2022,11-May-22,Indiana,Indianapolis,0,5
+2022,11-May-22,Missouri,Saint Louis,1,3
+2022,11-May-22,New Jersey,Paterson,1,4
+2022,10-May-22,Maryland,Baltimore,0,5
+2022,10-May-22,Illinois,Chicago,1,4
+2022,10-May-22,Illinois,Chicago,0,6
+2022,10-May-22,Pennsylvania,Philadelphia,0,4
+2022,10-May-22,Maryland,Baltimore,1,3
+2022,10-May-22,Texas,Brookshire,1,3
+2022,9-May-22,Michigan,Detroit,0,4
+2022,9-May-22,Alabama,Tuscaloosa,0,5
+2022,8-May-22,Georgia,Clarkston,3,3
+2022,7-May-22,Kentucky,Lexington,2,3
+2022,7-May-22,Florida,Miami,0,4
+2022,7-May-22,Texas,Garland,2,2
+2022,6-May-22,Louisiana,New Orleans,2,4
+2022,5-May-22,Washington,Sunnyside,0,5
+2022,3-May-22,Louisiana,Baton Rouge,0,5
+2022,3-May-22,Kansas,Cowley (county),0,4
+2022,3-May-22,Texas,Beaumont,0,5
+2022,1-May-22,Louisiana,Lafayette,0,12
+2022,1-May-22,Ohio,Springfield,1,4
+2022,1-May-22,Florida,Tarpon Springs,0,6
+2022,1-May-22,South Carolina,North Charleston,1,3
+2022,30-Apr-22,Georgia,Atlanta,1,4
+2022,30-Apr-22,Mississippi,Jackson,1,5
+2022,29-Apr-22,Tennessee,Jackson,2,2
+2022,29-Apr-22,Louisiana,New Orleans,0,6
+2022,29-Apr-22,Mississippi,Laurel,0,4
+2022,28-Apr-22,Alabama,Bessemer,1,3
+2022,27-Apr-22,Illinois,Chicago,0,4
+2022,27-Apr-22,Louisiana,Opelousas,2,3
+2022,27-Apr-22,Mississippi,Biloxi,4,0
+2022,27-Apr-22,Texas,San Antonio,0,5
+2022,27-Apr-22,Arizona,Phoenix,0,4
+2022,25-Apr-22,Alabama,Birmingham,1,3
+2022,24-Apr-22,South Carolina,Myrtle Beach,1,3
+2022,24-Apr-22,Indiana,Lafayette,2,4
+2022,23-Apr-22,Illinois,Chicago,2,2
+2022,23-Apr-22,North Carolina,Rocky Mount,0,4
+2022,23-Apr-22,Georgia,Atlanta,0,5
+2022,23-Apr-22,California,San Bernardino,1,4
+2022,22-Apr-22,Virginia,Petersburg,1,5
+2022,22-Apr-22,Ohio,Cincinnati,0,4
+2022,22-Apr-22,District of Columbia,Washington,1,4
+2022,21-Apr-22,Arkansas,Mountain View,4,0
+2022,20-Apr-22,Minnesota,Duluth,5,0
+2022,17-Apr-22,Pennsylvania,Philadelphia,0,4
+2022,17-Apr-22,Oregon,Portland,1,3
+2022,17-Apr-22,South Carolina,Furman,0,9
+2022,17-Apr-22,California,Sacramento,1,3
+2022,17-Apr-22,Florida,Miami,1,3
+2022,17-Apr-22,Pennsylvania,Pittsburgh,2,9
+2022,17-Apr-22,Louisiana,Baldwin,0,5
+2022,16-Apr-22,South Carolina,Columbia,0,9
+2022,16-Apr-22,Maryland,Baltimore,1,3
+2022,16-Apr-22,Nevada,North Las Vegas,0,4
+2022,16-Apr-22,Texas,Daingerfield,1,6
+2022,16-Apr-22,New York,Syracuse,1,4
+2022,15-Apr-22,California,Stockton,2,2
+2022,12-Apr-22,New York,Brooklyn,0,10
+2022,12-Apr-22,New York,Bronx,1,3
+2022,10-Apr-22,Louisiana,Baton Rouge,0,4
+2022,10-Apr-22,Iowa,Cedar Rapids,3,9
+2022,10-Apr-22,Illinois,Elgin,2,4
+2022,10-Apr-22,California,Willowbrook,2,5
+2022,10-Apr-22,Indiana,Indianapolis,1,5
+2022,9-Apr-22,Florida,Miami,0,4
+2022,9-Apr-22,District of Columbia,Washington,0,4
+2022,6-Apr-22,Pennsylvania,Philadelphia,1,4
+2022,4-Apr-22,Kentucky,Covington,0,4
+2022,4-Apr-22,Connecticut,Hartford,1,3
+2022,3-Apr-22,New York,Buffalo,0,4
+2022,3-Apr-22,California,San Francisco,2,2
+2022,3-Apr-22,Texas,Dallas,1,16
+2022,3-Apr-22,California,Sacramento,6,12
+2022,2-Apr-22,North Carolina,Shelby,1,3
+2022,2-Apr-22,Louisiana,Monroe,1,5
+2022,2-Apr-22,Colorado,Colorado Springs,0,4
+2022,2-Apr-22,Louisiana,Shreveport,1,3
+2022,1-Apr-22,South Carolina,Walterboro,0,4
+2022,26-Mar-22,California,Hollister,2,3
+2022,26-Mar-22,Ohio,Cleveland,0,4
+2022,25-Mar-22,Colorado,Colorado Springs,2,2
+2022,22-Mar-22,California,Stockton,1,3
+2022,21-Mar-22,Connecticut,Waterbury,0,4
+2022,21-Mar-22,Illinois,Chicago,2,2
+2022,20-Mar-22,Wisconsin,Milwaukee,0,4
+2022,20-Mar-22,Texas,Austin,0,4
+2022,20-Mar-22,Texas,Houston,1,3
+2022,19-Mar-22,Virginia,Norfolk,3,2
+2022,19-Mar-22,North Carolina,Fayetteville,3,3
+2022,19-Mar-22,Arkansas,Dumas,1,26
+2022,19-Mar-22,Virginia,Madison Heights,1,4
+2022,19-Mar-22,Texas,Dallas,1,9
+2022,18-Mar-22,Texas,Fort Worth,1,3
+2022,18-Mar-22,Louisiana,New Iberia,0,5
+2022,17-Mar-22,Michigan,Lansing,0,4
+2022,17-Mar-22,Illinois,Chicago,0,4
+2022,17-Mar-22,Florida,Fort Lauderdale,2,2
+2022,16-Mar-22,New Jersey,Irvington,1,3
+2022,16-Mar-22,New Jersey,Irvington,1,3
+2022,15-Mar-22,Alabama,Ozark,0,5
+2022,14-Mar-22,Pennsylvania,Reading,1,3
+2022,13-Mar-22,Illinois,Chicago,0,7
+2022,13-Mar-22,New York,Rochester,2,2
+2022,13-Mar-22,South Carolina,Columbia,1,4
+2022,12-Mar-22,Maryland,Baltimore,3,1
+2022,12-Mar-22,Alabama,Autaugaville,1,3
+2022,11-Mar-22,Ohio,Columbus,2,2
+2022,9-Mar-22,Colorado,Aurora,1,4
+2022,8-Mar-22,Florida,Jacksonville,1,4
+2022,7-Mar-22,Tennessee,Knoxville,0,4
+2022,6-Mar-22,Minnesota,Minneapolis,1,3
+2022,6-Mar-22,Pennsylvania,Hazleton,1,4
+2022,6-Mar-22,Kentucky,Louisville,0,4
+2022,6-Mar-22,Texas,Lubbock,0,4
+2022,6-Mar-22,South Carolina,Chester,2,3
+2022,6-Mar-22,Louisiana,Monroe,0,4
+2022,5-Mar-22,Arizona,Glendale,1,3
+2022,5-Mar-22,Georgia,Atlanta,0,4
+2022,3-Mar-22,Nevada,Las Vegas,1,6
+2022,2-Mar-22,Maryland,Baltimore,1,3
+2022,28-Feb-22,California,Sacramento,5,0
+2022,27-Feb-22,Louisiana,Alexandria,0,4
+2022,26-Feb-22,South Carolina,North Charleston,1,3
+2022,26-Feb-22,Nevada,Las Vegas,1,14
+2022,26-Feb-22,Louisiana,Bogalusa,0,10
+2022,25-Feb-22,Louisiana,Baton Rouge,2,2
+2022,24-Feb-22,Texas,San Antonio,0,4
+2022,21-Feb-22,Minnesota,Saint Paul,1,3
+2022,20-Feb-22,Iowa,Des Moines,0,4
+2022,20-Feb-22,Nebraska,Omaha,0,4
+2022,20-Feb-22,Oregon,Portland,1,3
+2022,20-Feb-22,Mississippi,Mccomb,1,3
+2022,19-Feb-22,Oregon,Portland,1,6
+2022,19-Feb-22,Missouri,Charleston,2,14
+2022,19-Feb-22,California,Turlock,0,7
+2022,19-Feb-22,North Carolina,Durham,2,2
+2022,18-Feb-22,Maryland,Temple Hills (Marlow Heights),2,2
+2022,17-Feb-22,Pennsylvania,Philadelphia,0,4
+2022,17-Feb-22,Texas,Houston,0,5
+2022,16-Feb-22,Florida,Miami,1,3
+2022,15-Feb-22,Illinois,Joliet,1,3
+2022,13-Feb-22,Wisconsin,Racine,1,5
+2022,12-Feb-22,California,West Hollywood,0,4
+2022,12-Feb-22,Tennessee,Murfreesboro,1,4
+2022,12-Feb-22,Arkansas,Little Rock,1,3
+2022,11-Feb-22,Missouri,Springfield,0,4
+2022,11-Feb-22,Arizona,Phoenix,2,9
+2022,6-Feb-22,Illinois,Romeoville,0,5
+2022,6-Feb-22,California,Fresno,2,2
+2022,6-Feb-22,North Carolina,Wilmington,0,4
+2022,6-Feb-22,Florida,Fort Lauderdale,0,4
+2022,5-Feb-22,New Mexico,Las Cruces,1,3
+2022,5-Feb-22,Texas,Corsicana,6,2
+2022,4-Feb-22,Virginia,Blacksburg,1,4
+2022,2-Feb-22,California,Oroville,1,4
+2022,1-Feb-22,Wisconsin,Milwaukee,0,5
+2022,31-Jan-22,North Carolina,Raleigh,1,3
+2022,30-Jan-22,Florida,Winter Haven,1,4
+2022,30-Jan-22,Georgia,Augusta,1,3
+2022,29-Jan-22,Missouri,Saint Louis,3,1
+2022,29-Jan-22,Georgia,Atlanta,1,3
+2022,29-Jan-22,California,Bakersfield,0,4
+2022,27-Jan-22,District of Columbia,Washington,1,4
+2022,23-Jan-22,California,Inglewood,4,1
+2022,23-Jan-22,Wisconsin,Milwaukee,6,0
+2022,19-Jan-22,Maryland,Baltimore,3,1
+2022,19-Jan-22,Louisiana,New Orleans,0,4
+2022,18-Jan-22,Florida,Miami,1,4
+2022,17-Jan-22,Texas,San Antonio,1,4
+2022,16-Jan-22,Georgia,Savannah,1,3
+2022,15-Jan-22,Tennessee,Knoxville,0,4
+2022,15-Jan-22,Georgia,Brunswick,1,5
+2022,14-Jan-22,Oregon,Eugene,0,6
+2022,13-Jan-22,New York,Brooklyn,1,3
+2022,12-Jan-22,Illinois,Chicago,0,4
+2022,9-Jan-22,California,Fresno,0,4
+2022,9-Jan-22,California,Los Angeles,2,4
+2022,9-Jan-22,Alabama,Montgomery,1,6
+2022,9-Jan-22,Colorado,Colorado Springs,2,3
+2022,8-Jan-22,Texas,Houston,1,3
+2022,4-Jan-22,Mississippi,Jackson,1,3
+2022,2-Jan-22,Texas,Corsicana,2,2
+2022,2-Jan-22,Texas,San Antonio,2,2
+2022,1-Jan-22,Missouri,Columbia,0,4
+2022,1-Jan-22,Pennsylvania,Philadelphia,1,4
+2022,1-Jan-22,Wisconsin,Kenosha,1,3
+2022,1-Jan-22,Illinois,Peoria,2,2
+2022,1-Jan-22,South Carolina,Dillon,0,5
+2022,1-Jan-22,Indiana,South Bend,0,4
+2022,1-Jan-22,Colorado,Denver,2,2
+2021,31-Dec-21,Maryland,Capitol Heights,0,4
+2021,31-Dec-21,Mississippi,Gulfport,4,3
+2021,31-Dec-21,California,Los Angeles,0,6
+2021,30-Dec-21,Pennsylvania,Philadelphia,0,7
+2021,30-Dec-21,Missouri,Kirksville,3,1
+2021,27-Dec-21,Colorado,Denver,6,2
+2021,27-Dec-21,Ohio,Youngstown,1,3
+2021,27-Dec-21,Alabama,Mobile,1,3
+2021,26-Dec-21,Virginia,Clear Brook,1,4
+2021,26-Dec-21,Texas,Garland,3,1
+2021,26-Dec-21,New York,Buffalo,0,4
+2021,26-Dec-21,Mississippi,Fayette,1,6
+2021,26-Dec-21,Pennsylvania,Philadelphia,0,4
+2021,25-Dec-21,Louisiana,Lafayette,0,4
+2021,24-Dec-21,Georgia,Roswell,1,3
+2021,24-Dec-21,Pennsylvania,Pittsburgh,0,6
+2021,24-Dec-21,New York,Brooklyn,0,4
+2021,19-Dec-21,Illinois,Lovejoy (Brooklyn),1,3
+2021,17-Dec-21,Maryland,Baltimore,1,3
+2021,17-Dec-21,Maryland,Baltimore,1,4
+2021,17-Dec-21,Virginia,Portsmouth,0,4
+2021,13-Dec-21,California,Fresno,0,4
+2021,13-Dec-21,Pennsylvania,Philadelphia,0,4
+2021,13-Dec-21,North Carolina,Durham,2,4
+2021,12-Dec-21,Mississippi,Bolton,0,6
+2021,12-Dec-21,Florida,Tampa,0,5
+2021,12-Dec-21,Texas,Baytown,1,13
+2021,12-Dec-21,Virginia,Woodbridge,0,4
+2021,11-Dec-21,Illinois,River Grove,1,3
+2021,10-Dec-21,Michigan,Lansing,1,3
+2021,10-Dec-21,Florida,Orlando,0,5
+2021,10-Dec-21,North Carolina,Charlotte,0,5
+2021,9-Dec-21,Maryland,Capitol Heights,0,4
+2021,9-Dec-21,Wisconsin,Beloit,1,5
+2021,6-Dec-21,Pennsylvania,Philadelphia,0,4
+2021,5-Dec-21,Michigan,Detroit,2,2
+2021,5-Dec-21,Texas,El Paso,1,3
+2021,3-Dec-21,Tennessee,Memphis,2,2
+2021,2-Dec-21,North Carolina,Elizabeth City,3,3
+2021,30-Nov-21,Michigan,Oxford,4,7
+2021,30-Nov-21,Georgia,Rex,4,2
+2021,28-Nov-21,Pennsylvania,Philadelphia,0,4
+2021,28-Nov-21,Maryland,Baltimore,0,7
+2021,28-Nov-21,Illinois,Evanston,1,4
+2021,28-Nov-21,California,Lancaster,5,0
+2021,28-Nov-21,Colorado,Aurora,0,5
+2021,27-Nov-21,New Jersey,Newark,1,3
+2021,26-Nov-21,Tennessee,Nashville,3,4
+2021,25-Nov-21,Texas,San Antonio,2,2
+2021,25-Nov-21,South Carolina,Green Sea,0,4
+2021,23-Nov-21,Florida,Lehigh Acres,0,4
+2021,23-Nov-21,Texas,Marshall,1,3
+2021,22-Nov-21,North Carolina,Warsaw,2,2
+2021,21-Nov-21,New Jersey,Passaic,0,5
+2021,21-Nov-21,Louisiana,Baton Rouge,1,4
+2021,20-Nov-21,California,Fresno,2,2
+2021,20-Nov-21,Illinois,Berwyn,0,4
+2021,18-Nov-21,Maryland,Cambridge,1,3
+2021,17-Nov-21,Illinois,East Saint Louis,1,3
+2021,17-Nov-21,New York,Newburgh,0,4
+2021,17-Nov-21,New York,Bronx,1,3
+2021,17-Nov-21,Illinois,Chicago,0,4
+2021,15-Nov-21,New York,New York (Manhattan),0,4
+2021,15-Nov-21,Colorado,Aurora,0,6
+2021,14-Nov-21,Pennsylvania,Philadelphia,0,6
+2021,14-Nov-21,Missouri,Columbia,1,5
+2021,14-Nov-21,Oregon,Chiloquin,2,2
+2021,14-Nov-21,Arizona,Tucson,4,1
+2021,14-Nov-21,Alabama,Troy,1,5
+2021,13-Nov-21,North Carolina,Winston Salem (Winston-salem),0,4
+2021,13-Nov-21,Louisiana,Houma,0,4
+2021,12-Nov-21,Virginia,Richmond,2,2
+2021,12-Nov-21,Alabama,Birmingham,2,2
+2021,9-Nov-21,New York,Rochester,0,4
+2021,9-Nov-21,Louisiana,Hahnville (Killona),1,4
+2021,9-Nov-21,South Dakota,Scotland,3,2
+2021,8-Nov-21,Texas,Victoria,3,1
+2021,8-Nov-21,Pennsylvania,Philadelphia,0,4
+2021,7-Nov-21,Wisconsin,Kenosha,1,3
+2021,6-Nov-21,California,Oakley,2,2
+2021,6-Nov-21,Texas,Marshall,0,6
+2021,6-Nov-21,California,Highland,0,4
+2021,5-Nov-21,California,Oakland,1,3
+2021,3-Nov-21,Iowa,Des Moines,0,4
+2021,3-Nov-21,Virginia,Norfolk,3,2
+2021,2-Nov-21,Alabama,Mobile,0,4
+2021,1-Nov-21,Florida,Orlando,0,4
+2021,1-Nov-21,Texas,San Antonio,0,4
+2021,31-Oct-21,Kentucky,Louisville,2,2
+2021,31-Oct-21,Colorado,Littleton (Lakewood),2,2
+2021,31-Oct-21,Illinois,Flossmoor,1,3
+2021,31-Oct-21,Texas,Houston,1,3
+2021,31-Oct-21,Illinois,Joliet,2,12
+2021,31-Oct-21,Texas,Fort Worth,1,3
+2021,30-Oct-21,California,Gilroy,2,2
+2021,30-Oct-21,Illinois,Decatur,0,4
+2021,30-Oct-21,Oklahoma,Oklahoma City,0,4
+2021,30-Oct-21,California,Sacramento,2,5
+2021,30-Oct-21,Florida,Saint Petersburg,1,4
+2021,30-Oct-21,Texas,Texarkana,1,9
+2021,29-Oct-21,New York,Poughkeepsie,0,5
+2021,29-Oct-21,Michigan,Kalamazoo,0,4
+2021,28-Oct-21,Nevada,Las Vegas,0,4
+2021,28-Oct-21,Tennessee,Nashville,1,3
+2021,25-Oct-21,Idaho,Boise,3,3
+2021,24-Oct-21,California,Gonzales,2,2
+2021,24-Oct-21,Mississippi,Crenshaw,2,3
+2021,23-Oct-21,South Carolina,Florence,0,6
+2021,23-Oct-21,California,Ontario,1,4
+2021,23-Oct-21,Georgia,Fort Valley,1,7
+2021,22-Oct-21,Illinois,Chicago,0,5
+2021,22-Oct-21,Washington,Renton,0,4
+2021,22-Oct-21,Maryland,Baltimore,0,7
+2021,21-Oct-21,New York,Brooklyn,0,4
+2021,21-Oct-21,Washington,Tacoma,4,0
+2021,20-Oct-21,Michigan,Farwell,4,0
+2021,19-Oct-21,Wisconsin,Kenosha,3,2
+2021,17-Oct-21,Louisiana,Grambling,1,7
+2021,17-Oct-21,Missouri,Saint Louis,1,3
+2021,17-Oct-21,Texas,Houston,0,7
+2021,17-Oct-21,Colorado,Colorado Springs,0,5
+2021,17-Oct-21,Wisconsin,Racine,0,6
+2021,17-Oct-21,Arkansas,Pine Bluff,1,9
+2021,17-Oct-21,Arkansas,Pine Bluff,1,3
+2021,17-Oct-21,Mississippi,Jackson,3,3
+2021,16-Oct-21,Texas,Killeen,1,3
+2021,15-Oct-21,Alabama,Mobile,0,5
+2021,14-Oct-21,Minnesota,Minneapolis,1,4
+2021,14-Oct-21,Mississippi,Mccomb,0,6
+2021,12-Oct-21,Florida,Naples,1,5
+2021,12-Oct-21,Mississippi,Meridian,3,1
+2021,11-Oct-21,Georgia,Atlanta,0,6
+2021,10-Oct-21,Minnesota,Saint Paul,1,15
+2021,10-Oct-21,South Carolina,Mc Coll (Mccoll),2,3
+2021,10-Oct-21,Iowa,Sioux City,0,4
+2021,10-Oct-21,Illinois,Chicago,1,4
+2021,10-Oct-21,Delaware,Dover,1,4
+2021,9-Oct-21,Louisiana,Livingston,2,4
+2021,9-Oct-21,Texas,Dallas,0,4
+2021,9-Oct-21,New York,Albany,1,6
+2021,9-Oct-21,Colorado,Denver,1,3
+2021,8-Oct-21,Maryland,Baltimore,0,4
+2021,8-Oct-21,District of Columbia,Washington,1,3
+2021,8-Oct-21,Alabama,Montgomery,1,3
+2021,7-Oct-21,Wisconsin,Milwaukee,3,1
+2021,7-Oct-21,Illinois,Chicago,0,4
+2021,7-Oct-21,Wisconsin,Milwaukee,0,5
+2021,7-Oct-21,Louisiana,New Orleans,1,4
+2021,6-Oct-21,Maryland,Baltimore,1,5
+2021,6-Oct-21,Louisiana,New Orleans,2,2
+2021,6-Oct-21,Ohio,Cleveland,0,4
+2021,6-Oct-21,Ohio,Cleveland,0,4
+2021,5-Oct-21,Illinois,Rockford,1,3
+2021,5-Oct-21,Minnesota,Saint Paul,0,4
+2021,4-Oct-21,Minnesota,Minneapolis,0,4
+2021,3-Oct-21,South Carolina,Bishopville,1,4
+2021,2-Oct-21,Texas,San Antonio,1,3
+2021,2-Oct-21,Colorado,Aurora,1,3
+2021,1-Oct-21,District of Columbia,Washington,1,5
+2021,1-Oct-21,Iowa,Cedar Rapids,0,6
+2021,29-Sep-21,Illinois,Chicago,0,5
+2021,28-Sep-21,Minnesota,Minneapolis,1,3
+2021,28-Sep-21,Illinois,Chicago,1,3
+2021,27-Sep-21,New York,New York (Manhattan),0,5
+2021,27-Sep-21,Illinois,Chicago,1,3
+2021,26-Sep-21,Illinois,Chicago,0,6
+2021,26-Sep-21,California,Oakland,0,4
+2021,26-Sep-21,Washington,Seattle (Des Moines),3,3
+2021,25-Sep-21,New York,Utica,0,4
+2021,25-Sep-21,Tennessee,Athens,4,1
+2021,25-Sep-21,Tennessee,Chattanooga,2,5
+2021,25-Sep-21,California,Riverside,0,6
+2021,24-Sep-21,South Carolina,Aiken,4,1
+2021,24-Sep-21,California,Los Angeles,0,4
+2021,23-Sep-21,Tennessee,Collierville,2,14
+2021,23-Sep-21,Pennsylvania,Philadelphia,0,4
+2021,22-Sep-21,North Carolina,Fayetteville,2,2
+2021,21-Sep-21,District of Columbia,Washington,0,5
+2021,20-Sep-21,Pennsylvania,Philadelphia,1,5
+2021,20-Sep-21,Missouri,Saint Louis,1,3
+2021,19-Sep-21,New York,Rochester,2,2
+2021,19-Sep-21,Florida,Miami,0,4
+2021,19-Sep-21,California,Oakland,1,3
+2021,19-Sep-21,Texas,Dallas,2,4
+2021,19-Sep-21,Illinois,Chicago,0,5
+2021,19-Sep-21,South Carolina,Yemassee,1,7
+2021,18-Sep-21,New York,Bronx,1,3
+2021,18-Sep-21,Illinois,Danville,2,2
+2021,18-Sep-21,Louisiana,Opelousas,0,5
+2021,17-Sep-21,Georgia,Augusta,0,4
+2021,14-Sep-21,Maryland,Baltimore,0,4
+2021,14-Sep-21,Ohio,Cleveland,0,6
+2021,13-Sep-21,Wisconsin,Milwaukee,0,5
+2021,12-Sep-21,Minnesota,Saint Paul,4,0
+2021,12-Sep-21,Texas,Temple,0,4
+2021,12-Sep-21,Illinois,Blue Island,2,2
+2021,12-Sep-21,Michigan,Detroit,2,4
+2021,11-Sep-21,Alabama,Dothan,0,5
+2021,11-Sep-21,New York,Utica,1,3
+2021,11-Sep-21,Illinois,Chicago,1,3
+2021,11-Sep-21,Illinois,Chicago,2,4
+2021,11-Sep-21,New Jersey,Paterson,0,4
+2021,10-Sep-21,Florida,Orlando,0,4
+2021,9-Sep-21,Illinois,East Saint Louis,0,7
+2021,9-Sep-21,Alabama,Montgomery,1,3
+2021,8-Sep-21,Missouri,Saint Louis,0,4
+2021,7-Sep-21,Delaware,Wilmington,0,4
+2021,7-Sep-21,Kansas,Wichita,1,5
+2021,6-Sep-21,Georgia,Atlanta,0,5
+2021,5-Sep-21,Missouri,Independence,0,4
+2021,5-Sep-21,New York,Bronx,0,4
+2021,5-Sep-21,Missouri,Wyatt,0,4
+2021,5-Sep-21,Texas,Houston,4,0
+2021,5-Sep-21,Georgia,Athens,0,6
+2021,5-Sep-21,Florida,Lakeland,4,2
+2021,5-Sep-21,Ohio,Cincinnati,0,4
+2021,4-Sep-21,Louisiana,Monroe,1,3
+2021,4-Sep-21,District of Columbia,Washington,3,3
+2021,4-Sep-21,Alabama,Birmingham,2,2
+2021,4-Sep-21,Georgia,Warner Robins,1,4
+2021,4-Sep-21,Pennsylvania,Pittsburgh,0,4
+2021,4-Sep-21,Illinois,Chicago,0,5
+2021,3-Sep-21,Texas,Austin,1,3
+2021,3-Sep-21,New York,Syracuse,0,4
+2021,3-Sep-21,Louisiana,New Iberia,1,3
+2021,2-Sep-21,New York,Niagara Falls,0,4
+2021,31-Aug-21,North Carolina,Elm City,2,2
+2021,30-Aug-21,Illinois,Normal,3,3
+2021,29-Aug-21,Tennessee,Nashville,0,5
+2021,29-Aug-21,Nevada,Las Vegas,1,3
+2021,29-Aug-21,Wisconsin,Milwaukee,0,4
+2021,28-Aug-21,New York,Albany,0,5
+2021,28-Aug-21,California,San Diego,0,4
+2021,28-Aug-21,Illinois,Chicago,0,4
+2021,27-Aug-21,California,Los Angeles,0,4
+2021,27-Aug-21,West Virginia,Huntington,2,2
+2021,27-Aug-21,Pennsylvania,Sharon Hill,1,4
+2021,26-Aug-21,Minnesota,Minneapolis,0,7
+2021,23-Aug-21,Illinois,Chicago,0,4
+2021,22-Aug-21,Illinois,Chicago,1,4
+2021,22-Aug-21,Oregon,Portland,0,5
+2021,22-Aug-21,Illinois,Carbondale,1,3
+2021,22-Aug-21,Colorado,Denver,1,5
+2021,22-Aug-21,Michigan,Grand Rapids,1,3
+2021,21-Aug-21,Illinois,Chicago,0,4
+2021,21-Aug-21,Illinois,Chicago,1,5
+2021,20-Aug-21,Michigan,Flint,1,3
+2021,19-Aug-21,Illinois,Chicago,0,4
+2021,19-Aug-21,Pennsylvania,Philadelphia,1,4
+2021,19-Aug-21,Maryland,Edgewood,1,3
+2021,18-Aug-21,Maryland,Germantown,1,3
+2021,18-Aug-21,North Carolina,Durham,1,3
+2021,18-Aug-21,Ohio,Youngstown,2,4
+2021,18-Aug-21,California,Los Angeles,0,4
+2021,17-Aug-21,New York,Brooklyn,0,5
+2021,16-Aug-21,New York,Brooklyn,0,8
+2021,16-Aug-21,Michigan,Detroit,1,3
+2021,15-Aug-21,Texas,San Antonio,3,2
+2021,15-Aug-21,Illinois,Chicago,0,4
+2021,14-Aug-21,Indiana,Indianapolis,1,3
+2021,14-Aug-21,New York,Brooklyn,0,4
+2021,14-Aug-21,Ohio,Akron,0,5
+2021,14-Aug-21,Indiana,Indianapolis,1,4
+2021,14-Aug-21,New Jersey,Trenton,0,4
+2021,14-Aug-21,Texas,Wichita Falls,0,4
+2021,13-Aug-21,Nevada,Las Vegas,1,6
+2021,11-Aug-21,Pennsylvania,Philadelphia,1,4
+2021,10-Aug-21,Oregon,Portland,2,4
+2021,10-Aug-21,Mississippi,Clarksdale,2,2
+2021,9-Aug-21,Massachusetts,Boston,1,5
+2021,9-Aug-21,Michigan,Flint,2,4
+2021,8-Aug-21,New York,Brooklyn,3,2
+2021,8-Aug-21,Illinois,Chicago,1,6
+2021,8-Aug-21,Illinois,Chicago,1,4
+2021,8-Aug-21,Texas,Houston,1,5
+2021,8-Aug-21,District of Columbia,Washington,0,4
+2021,8-Aug-21,Louisiana,New Orleans,0,5
+2021,7-Aug-21,Alabama,Montgomery,0,4
+2021,7-Aug-21,Illinois,Chicago,0,4
+2021,7-Aug-21,Virginia,Norfolk,0,4
+2021,6-Aug-21,Tennessee,Nashville,0,4
+2021,4-Aug-21,Pennsylvania,Philadelphia,0,4
+2021,3-Aug-21,Illinois,Urbana,1,3
+2021,2-Aug-21,South Carolina,Greenwood,3,1
+2021,2-Aug-21,South Carolina,Columbia,0,9
+2021,1-Aug-21,Texas,Nacogdoches,1,3
+2021,1-Aug-21,Rhode Island,Providence,0,5
+2021,1-Aug-21,Louisiana,New Orleans,1,3
+2021,1-Aug-21,Louisiana,New Orleans,0,5
+2021,31-Jul-21,Ohio,Columbus,1,5
+2021,31-Jul-21,Illinois,Chicago,1,3
+2021,31-Jul-21,Indiana,Indianapolis,0,5
+2021,31-Jul-21,Michigan,Saginaw,2,2
+2021,31-Jul-21,New York,Corona (Queens),0,10
+2021,31-Jul-21,Ohio,Cleveland,0,5
+2021,31-Jul-21,Kentucky,Lexington,0,5
+2021,29-Jul-21,Iowa,Davenport,0,4
+2021,29-Jul-21,Pennsylvania,Pittsburgh,3,2
+2021,28-Jul-21,District of Columbia,Washington,0,4
+2021,28-Jul-21,Alabama,Montgomery,1,3
+2021,28-Jul-21,South Carolina,Charleston,1,4
+2021,25-Jul-21,Michigan,Detroit,0,6
+2021,25-Jul-21,California,Wasco,5,1
+2021,25-Jul-21,Illinois,Chicago,0,5
+2021,25-Jul-21,Washington,Seattle,2,3
+2021,24-Jul-21,Ohio,Columbus,0,4
+2021,24-Jul-21,Texas,Amarillo,0,6
+2021,24-Jul-21,Georgia,Macon,2,3
+2021,23-Jul-21,South Carolina,Spartanburg,2,2
+2021,23-Jul-21,South Carolina,Darlington,0,4
+2021,23-Jul-21,California,San Rafael,2,4
+2021,22-Jul-21,Texas,Houston,1,5
+2021,21-Jul-21,Illinois,Chicago,0,5
+2021,21-Jul-21,Maryland,Hyattsville (Adelphi),1,4
+2021,21-Jul-21,Illinois,Chicago,0,8
+2021,21-Jul-21,Illinois,Chicago,2,3
+2021,20-Jul-21,Texas,Jacksonville,4,0
+2021,19-Jul-21,New Jersey,Perth Amboy,0,6
+2021,19-Jul-21,Illinois,Chicago,0,4
+2021,18-Jul-21,Ohio,Toledo,1,3
+2021,18-Jul-21,Florida,Gainesville,1,4
+2021,18-Jul-21,North Carolina,Burlington,0,4
+2021,18-Jul-21,Arizona,Tucson,4,3
+2021,18-Jul-21,Texas,Houston,3,2
+2021,18-Jul-21,California,Walnut Creek,1,3
+2021,17-Jul-21,Oregon,Portland,1,6
+2021,17-Jul-21,Illinois,Chicago,0,6
+2021,16-Jul-21,Pennsylvania,Philadelphia,1,4
+2021,16-Jul-21,California,Sacramento,2,4
+2021,16-Jul-21,New Hampshire,Manchester,0,4
+2021,16-Jul-21,South Carolina,Greenville,1,3
+2021,16-Jul-21,District of Columbia,Washington,1,5
+2021,16-Jul-21,Illinois,Chicago,1,4
+2021,15-Jul-21,Texas,Levelland,1,5
+2021,15-Jul-21,Massachusetts,Boston,0,4
+2021,15-Jul-21,Missouri,Lake Ozark,1,3
+2021,14-Jul-21,Illinois,Chicago,0,5
+2021,14-Jul-21,Illinois,Chicago,0,5
+2021,14-Jul-21,Delaware,Claymont,2,2
+2021,13-Jul-21,Indiana,Indianapolis,0,4
+2021,13-Jul-21,Michigan,Detroit,1,6
+2021,12-Jul-21,New Jersey,Iselin,0,4
+2021,12-Jul-21,Pennsylvania,Beaver Falls,2,3
+2021,12-Jul-21,New York,Corona (Queens),0,4
+2021,11-Jul-21,Texas,El Paso (Socorro),1,5
+2021,10-Jul-21,Pennsylvania,Philadelphia,0,6
+2021,10-Jul-21,Massachusetts,Boston,0,4
+2021,10-Jul-21,Ohio,Springfield,1,3
+2021,9-Jul-21,California,Los Angeles,0,4
+2021,8-Jul-21,Connecticut,Hartford,0,4
+2021,5-Jul-21,Ohio,Toledo,1,11
+2021,5-Jul-21,California,Santa Rosa,1,3
+2021,5-Jul-21,New York,Buffalo,1,3
+2021,5-Jul-21,Illinois,Chicago,2,4
+2021,4-Jul-21,California,Thermal,0,4
+2021,4-Jul-21,Ohio,Cleveland,0,4
+2021,4-Jul-21,Illinois,Peoria,1,3
+2021,4-Jul-21,Nevada,North Las Vegas,2,7
+2021,4-Jul-21,Illinois,Danville,0,4
+2021,4-Jul-21,Texas,Dallas,3,3
+2021,4-Jul-21,Missouri,Kansas City,0,4
+2021,4-Jul-21,Texas,Dallas,0,5
+2021,4-Jul-21,Texas,Fort Worth,0,8
+2021,4-Jul-21,Illinois,Rantoul,0,5
+2021,4-Jul-21,Nebraska,Omaha,1,4
+2021,3-Jul-21,North Carolina,Chadbourn,3,1
+2021,3-Jul-21,Pennsylvania,Lancaster,0,4
+2021,3-Jul-21,Georgia,Swainsboro,1,3
+2021,3-Jul-21,Illinois,Chicago,0,4
+2021,2-Jul-21,Virginia,Norfolk,0,4
+2021,2-Jul-21,Pennsylvania,Philadelphia,1,4
+2021,2-Jul-21,Illinois,Champaign,1,4
+2021,1-Jul-21,Illinois,Chicago,0,7
+2021,1-Jul-21,South Carolina,Spartanburg,2,4
+2021,1-Jul-21,Virginia,Chesapeake,2,2
+2021,30-Jun-21,Illinois,Chicago,0,4
+2021,30-Jun-21,Texas,Houston,3,1
+2021,30-Jun-21,Louisiana,Marrero,0,4
+2021,30-Jun-21,Delaware,Dover,1,3
+2021,27-Jun-21,Illinois,Chicago,1,5
+2021,27-Jun-21,Illinois,Saint Charles,1,3
+2021,27-Jun-21,Illinois,Chicago,1,10
+2021,27-Jun-21,Tennessee,Memphis,3,1
+2021,27-Jun-21,North Carolina,Greensboro,0,4
+2021,26-Jun-21,Texas,Houston,1,3
+2021,26-Jun-21,Illinois,Chicago,1,3
+2021,26-Jun-21,Alabama,Fort Deposit,1,3
+2021,25-Jun-21,Ohio,Columbus,0,4
+2021,25-Jun-21,Illinois,Chicago,0,4
+2021,25-Jun-21,New York,Bronx,0,5
+2021,24-Jun-21,Florida,Gainesville,1,4
+2021,23-Jun-21,Alabama,Montgomery,2,2
+2021,23-Jun-21,New York,Buffalo,0,4
+2021,23-Jun-21,Illinois,Chicago,0,4
+2021,23-Jun-21,Illinois,Chicago,0,4
+2021,21-Jun-21,Missouri,Saint Louis,3,4
+2021,21-Jun-21,District of Columbia,Washington,0,4
+2021,20-Jun-21,Virginia,Richmond,1,3
+2021,20-Jun-21,California,Richmond,3,5
+2021,20-Jun-21,Colorado,Aurora,1,4
+2021,20-Jun-21,Florida,Wildwood,1,10
+2021,20-Jun-21,Texas,Dallas,0,8
+2021,20-Jun-21,Indiana,Granger,1,4
+2021,20-Jun-21,New Jersey,Atlantic City,1,3
+2021,20-Jun-21,Ohio,Cincinnati,1,3
+2021,19-Jun-21,Alaska,Anchorage,1,4
+2021,19-Jun-21,Louisiana,Baton Rouge,2,4
+2021,19-Jun-21,New Jersey,Newark,0,4
+2021,19-Jun-21,California,Oakland,1,7
+2021,18-Jun-21,Minnesota,Minneapolis,0,5
+2021,17-Jun-21,Virginia,Petersburg,0,4
+2021,17-Jun-21,North Carolina,Durham,2,2
+2021,17-Jun-21,Ohio,Cincinnati,1,3
+2021,17-Jun-21,New Jersey,Paterson,0,4
+2021,16-Jun-21,Maryland,Baltimore,1,5
+2021,15-Jun-21,Illinois,Chicago,0,5
+2021,15-Jun-21,Illinois,Chicago,5,3
+2021,15-Jun-21,Alabama,Albertville,3,2
+2021,14-Jun-21,Georgia,Columbus,2,2
+2021,14-Jun-21,Michigan,Lansing,2,2
+2021,14-Jun-21,Florida,Boynton Beach,1,3
+2021,13-Jun-21,Ohio,West Salem,1,6
+2021,13-Jun-21,Kentucky,Louisville,1,3
+2021,12-Jun-21,Texas,Austin,1,14
+2021,12-Jun-21,Ohio,Cleveland,3,4
+2021,12-Jun-21,Illinois,Chicago,1,9
+2021,11-Jun-21,Washington,Seattle (White Center),2,2
+2021,11-Jun-21,Georgia,Savannah,2,6
+2021,11-Jun-21,North Carolina,Winston Salem (Winston-salem),1,3
+2021,11-Jun-21,Texas,Dallas,0,5
+2021,10-Jun-21,Michigan,Detroit,1,3
+2021,10-Jun-21,New York,Yonkers,0,4
+2021,10-Jun-21,Illinois,Chicago,1,4
+2021,8-Jun-21,Tennessee,Nashville,1,3
+2021,8-Jun-21,Tennessee,Memphis,1,4
+2021,8-Jun-21,Texas,Houston,0,5
+2021,7-Jun-21,Ohio,Cleveland,0,6
+2021,7-Jun-21,Florida,Homestead,3,3
+2021,6-Jun-21,Missouri,Saint Louis,0,4
+2021,6-Jun-21,North Carolina,Snow Hill,0,4
+2021,6-Jun-21,Ohio,Cleveland,0,8
+2021,6-Jun-21,Florida,Miami (Kendall),3,6
+2021,6-Jun-21,California,Oakland,0,5
+2021,6-Jun-21,Utah,Salt Lake City,1,4
+2021,6-Jun-21,Illinois,Chicago,0,8
+2021,5-Jun-21,Louisiana,New Orleans,0,9
+2021,5-Jun-21,Indiana,Indianapolis,2,2
+2021,4-Jun-21,Michigan,Muskegon,1,3
+2021,2-Jun-21,Ohio,Toledo,0,4
+2021,2-Jun-21,Arkansas,Magnolia,0,4
+2021,2-Jun-21,Ohio,Springfield,0,6
+2021,31-May-21,New York,Brooklyn,0,4
+2021,31-May-21,Missouri,Saint Louis,0,4
+2021,31-May-21,Ohio,Cleveland (Garfield Heights),1,5
+2021,30-May-21,Alabama,Aliceville,1,4
+2021,30-May-21,Florida,Hialeah,3,20
+2021,30-May-21,Illinois,Chicago,0,4
+2021,29-May-21,Texas,San Antonio,2,2
+2021,29-May-21,Missouri,Saint Louis,1,3
+2021,28-May-21,Florida,Miami,1,6
+2021,27-May-21,North Carolina,Durham,0,5
+2021,26-May-21,Illinois,Chicago,1,3
+2021,26-May-21,California,San Jose,10,0
+2021,24-May-21,Michigan,Inkster,2,2
+2021,24-May-21,Ohio,West Jefferson,4,0
+2021,23-May-21,Illinois,Chicago,0,4
+2021,23-May-21,New York,Bay Shore,0,4
+2021,23-May-21,New Jersey,Paterson,0,5
+2021,23-May-21,Virginia,Norfolk,0,4
+2021,22-May-21,South Carolina,North Charleston,1,14
+2021,22-May-21,Delaware,Wilmington,0,4
+2021,22-May-21,Ohio,Columbus,1,5
+2021,22-May-21,Minnesota,Minneapolis,2,7
+2021,22-May-21,Indiana,Fort Wayne,1,4
+2021,22-May-21,New Jersey,Bridgeton,3,11
+2021,21-May-21,New York,Albany,1,5
+2021,21-May-21,New Jersey,Jersey City,2,4
+2021,20-May-21,Indiana,Evansville,1,3
+2021,18-May-21,California,Oakland,2,5
+2021,18-May-21,California,Hemet,1,4
+2021,16-May-21,Ohio,Cincinnati,1,3
+2021,16-May-21,Georgia,Atlanta,0,4
+2021,16-May-21,Michigan,East Lansing,0,5
+2021,16-May-21,Georgia,Columbus,0,4
+2021,16-May-21,Georgia,Stone Mountain,1,5
+2021,16-May-21,Alabama,Birmingham,1,4
+2021,15-May-21,District of Columbia,Washington,1,3
+2021,15-May-21,New York,Bronx,1,4
+2021,15-May-21,Illinois,Chicago,2,3
+2021,14-May-21,Pennsylvania,Philadelphia,0,4
+2021,13-May-21,Georgia,Augusta,2,2
+2021,13-May-21,District of Columbia,Washington,1,3
+2021,13-May-21,Rhode Island,Providence,0,8
+2021,12-May-21,Pennsylvania,Philadelphia,1,3
+2021,12-May-21,Georgia,Buford,2,2
+2021,11-May-21,Maryland,Baltimore,0,4
+2021,10-May-21,Alabama,Montgomery,0,7
+2021,9-May-21,Pennsylvania,Philadelphia,2,3
+2021,9-May-21,Colorado,Colorado Springs,7,0
+2021,9-May-21,Arizona,Phoenix,1,7
+2021,9-May-21,California,Los Angeles,1,3
+2021,9-May-21,South Carolina,Charleston,0,5
+2021,9-May-21,New Jersey,Newark,0,4
+2021,8-May-21,California,Citrus Heights,0,4
+2021,8-May-21,California,Oakland,0,4
+2021,8-May-21,Maryland,Gwynn Oak (Woodlawn),4,1
+2021,8-May-21,Michigan,Detroit,0,4
+2021,8-May-21,California,Compton,2,2
+2021,8-May-21,Wisconsin,Milwaukee,0,4
+2021,7-May-21,Missouri,Saint Louis (Kinloch),2,4
+2021,6-May-21,New Jersey,Paterson,0,5
+2021,5-May-21,Illinois,Chicago,0,4
+2021,3-May-21,Michigan,Saginaw,1,4
+2021,2-May-21,Ohio,Columbus,0,4
+2021,2-May-21,Pennsylvania,Philadelphia,1,3
+2021,2-May-21,Maryland,Baltimore,1,3
+2021,2-May-21,Illinois,Chicago,0,5
+2021,2-May-21,Minnesota,Saint Paul,0,4
+2021,1-May-21,Delaware,Wilmington,0,4
+2021,1-May-21,Louisiana,New Orleans,2,4
+2021,1-May-21,New York,New Rochelle,1,4
+2021,1-May-21,Massachusetts,Holyoke,0,5
+2021,1-May-21,Florida,Clewiston,1,3
+2021,29-Apr-21,Georgia,Atlanta,1,5
+2021,28-Apr-21,Florida,Miami,0,5
+2021,28-Apr-21,North Carolina,Boone,5,0
+2021,27-Apr-21,Virginia,Richmond,2,3
+2021,27-Apr-21,Alabama,Fairfield,1,4
+2021,26-Apr-21,Louisiana,Houma,0,5
+2021,26-Apr-21,Oregon,Gresham,0,7
+2021,25-Apr-21,Texas,Palestine,0,4
+2021,25-Apr-21,Missouri,Kansas City,1,4
+2021,25-Apr-21,Alabama,Phenix City,0,4
+2021,25-Apr-21,Arkansas,Little Rock,1,3
+2021,24-Apr-21,Louisiana,New Orleans,0,5
+2021,22-Apr-21,California,San Diego,1,4
+2021,19-Apr-21,Texas,Houston,2,4
+2021,19-Apr-21,Georgia,Atlanta,0,5
+2021,18-Apr-21,Wisconsin,Kenosha,3,3
+2021,18-Apr-21,Michigan,Detroit,1,5
+2021,18-Apr-21,Louisiana,Shreveport,0,6
+2021,18-Apr-21,Alabama,Montgomery,1,4
+2021,17-Apr-21,Ohio,Columbus,1,5
+2021,17-Apr-21,Louisiana,La Place (Laplace),0,9
+2021,16-Apr-21,Michigan,Detroit,0,4
+2021,15-Apr-21,Indiana,Indianapolis,9,7
+2021,15-Apr-21,District of Columbia,Washington,0,4
+2021,15-Apr-21,Louisiana,Lake Charles,1,3
+2021,15-Apr-21,Florida,Pensacola,0,6
+2021,15-Apr-21,Illinois,Chicago,0,4
+2021,13-Apr-21,Maryland,Baltimore,0,4
+2021,11-Apr-21,Kansas,Wichita,1,3
+2021,11-Apr-21,Washington,Seattle,0,4
+2021,10-Apr-21,Tennessee,Memphis,1,3
+2021,10-Apr-21,Michigan,Allendale,0,4
+2021,10-Apr-21,Missouri,Koshkonong,1,3
+2021,10-Apr-21,Connecticut,Waterbury,0,4
+2021,9-Apr-21,Texas,Fort Worth,1,5
+2021,8-Apr-21,Texas,Bryan,1,5
+2021,7-Apr-21,South Carolina,Rock Hill,7,0
+2021,7-Apr-21,Wisconsin,Milwaukee,2,3
+2021,7-Apr-21,Ohio,Dayton,0,4
+2021,6-Apr-21,District of Columbia,Washington,0,4
+2021,6-Apr-21,Michigan,Detroit,1,3
+2021,5-Apr-21,Illinois,Chicago,0,7
+2021,5-Apr-21,Maryland,Baltimore,0,5
+2021,4-Apr-21,Alabama,Birmingham,1,5
+2021,4-Apr-21,Louisiana,Monroe,0,6
+2021,4-Apr-21,Texas,Beaumont,0,4
+2021,3-Apr-21,North Carolina,Wilmington,3,4
+2021,3-Apr-21,Alabama,Tuscaloosa,0,5
+2021,3-Apr-21,Texas,Allen,6,0
+2021,3-Apr-21,Florida,Quincy,0,7
+2021,31-Mar-21,California,Orange,4,2
+2021,31-Mar-21,District of Columbia,Washington,2,3
+2021,28-Mar-21,Ohio,Cleveland,0,7
+2021,28-Mar-21,Illinois,Chicago,0,4
+2021,28-Mar-21,Maryland,Essex,5,1
+2021,28-Mar-21,Texas,San Antonio,0,4
+2021,27-Mar-21,Illinois,Chicago,0,4
+2021,27-Mar-21,Mississippi,Yazoo City,0,6
+2021,27-Mar-21,Illinois,River Grove,1,3
+2021,26-Mar-21,Virginia,Virginia Beach,0,9
+2021,26-Mar-21,Virginia,Norfolk,0,4
+2021,26-Mar-21,Tennessee,Memphis,3,2
+2021,26-Mar-21,Illinois,Chicago,1,7
+2021,26-Mar-21,Pennsylvania,Philadelphia,0,7
+2021,23-Mar-21,Alabama,Aliceville,2,2
+2021,22-Mar-21,Colorado,Boulder,10,1
+2021,22-Mar-21,Michigan,Detroit,1,3
+2021,20-Mar-21,Texas,Houston,0,5
+2021,20-Mar-21,Texas,Dallas,1,7
+2021,20-Mar-21,Pennsylvania,Philadelphia,1,5
+2021,18-Mar-21,Oregon,Gresham,0,4
+2021,18-Mar-21,Louisiana,New Orleans,0,4
+2021,17-Mar-21,California,Stockton,0,5
+2021,16-Mar-21,Georgia,Acworth,8,1
+2021,16-Mar-21,Arizona,Phoenix,4,1
+2021,15-Mar-21,Indiana,Indianapolis,1,4
+2021,14-Mar-21,Illinois,Chicago,0,4
+2021,14-Mar-21,Florida,Tampa,0,4
+2021,14-Mar-21,Illinois,Chicago,2,13
+2021,13-Mar-21,New York,Brooklyn,0,5
+2021,13-Mar-21,Virginia,Richmond,2,4
+2021,13-Mar-21,Florida,Orlando,1,3
+2021,13-Mar-21,Indiana,Indianapolis,4,1
+2021,12-Mar-21,North Carolina,Greensboro,1,3
+2021,12-Mar-21,Texas,Austin,0,4
+2021,11-Mar-21,New Mexico,Ohkay Owingeh,1,3
+2021,11-Mar-21,Pennsylvania,Philadelphia,2,2
+2021,10-Mar-21,Texas,Houston,3,1
+2021,8-Mar-21,Florida,Clearwater,1,3
+2021,7-Mar-21,Mississippi,Edwards,0,4
+2021,6-Mar-21,California,Yuba City,2,3
+2021,6-Mar-21,North Carolina,Fayetteville,1,4
+2021,5-Mar-21,California,Compton,1,4
+2021,4-Mar-21,District of Columbia,Washington,0,5
+2021,3-Mar-21,Pennsylvania,Erie,2,3
+2021,28-Feb-21,Ohio,Cincinnati,3,3
+2021,28-Feb-21,Indiana,East Chicago,0,4
+2021,28-Feb-21,Delaware,Dover,0,4
+2021,28-Feb-21,South Carolina,Mccormick,0,4
+2021,28-Feb-21,Louisiana,Shreveport,0,5
+2021,28-Feb-21,Texas,Houston,0,4
+2021,27-Feb-21,Mississippi,Columbus,0,4
+2021,27-Feb-21,Mississippi,Pattison,2,3
+2021,26-Feb-21,Louisiana,Baton Rouge,0,4
+2021,26-Feb-21,Texas,Houston,1,5
+2021,26-Feb-21,California,San Diego,1,3
+2021,21-Feb-21,Missouri,Kennett,1,4
+2021,21-Feb-21,North Carolina,Teachey,0,4
+2021,20-Feb-21,Pennsylvania,Norristown (East Norriton),1,4
+2021,20-Feb-21,Louisiana,Metairie,3,2
+2021,20-Feb-21,Colorado,Grand Junction,1,3
+2021,20-Feb-21,Illinois,Springfield,1,4
+2021,18-Feb-21,Louisiana,Baton Rouge,1,3
+2021,17-Feb-21,Pennsylvania,Philadelphia,0,8
+2021,16-Feb-21,Florida,Saint Petersburg,3,1
+2021,13-Feb-21,California,San Francisco,0,6
+2021,13-Feb-21,Indiana,Indianapolis,0,4
+2021,13-Feb-21,California,Oakland,0,6
+2021,13-Feb-21,North Carolina,Cary,1,3
+2021,11-Feb-21,Georgia,Columbus,1,4
+2021,10-Feb-21,Georgia,Atlanta,0,4
+2021,9-Feb-21,Minnesota,Buffalo,1,4
+2021,9-Feb-21,Texas,Houston,0,4
+2021,6-Feb-21,Tennessee,Murfreesboro,1,4
+2021,6-Feb-21,Louisiana,Thibodaux,0,4
+2021,6-Feb-21,Illinois,Bloomingdale,1,5
+2021,6-Feb-21,Washington,Tacoma,1,3
+2021,5-Feb-21,Pennsylvania,Mohnton,1,3
+2021,5-Feb-21,Mississippi,Benoit,3,1
+2021,4-Feb-21,North Carolina,High Point,2,3
+2021,3-Feb-21,Colorado,Oak Creek,3,2
+2021,3-Feb-21,Tennessee,Memphis,1,3
+2021,2-Feb-21,Florida,Fort Lauderdale (Sunrise),3,3
+2021,2-Feb-21,Oklahoma,Muskogee,6,1
+2021,1-Feb-21,New York,Rochester,1,3
+2021,30-Jan-21,New York,Albany,1,4
+2021,29-Jan-21,Pennsylvania,Mc Kees Rocks (Mckees Rocks),2,3
+2021,28-Jan-21,Michigan,Flint,1,4
+2021,27-Jan-21,California,Santa Ana,0,4
+2021,25-Jan-21,District of Columbia,Washington,1,4
+2021,24-Jan-21,Indiana,Indianapolis,5,1
+2021,24-Jan-21,Nevada,Las Vegas,0,5
+2021,22-Jan-21,Kentucky,Covington,0,5
+2021,21-Jan-21,California,Oakland,1,3
+2021,18-Jan-21,Pennsylvania,Tobyhanna,0,4
+2021,17-Jan-21,Arizona,Phoenix,0,5
+2021,17-Jan-21,Arizona,Phoenix,1,6
+2021,16-Jan-21,Illinois,Kankakee,0,5
+2021,15-Jan-21,Pennsylvania,Philadelphia,0,4
+2021,11-Jan-21,Florida,Miami,0,4
+2021,9-Jan-21,Illinois,Evanston,6,2
+2021,9-Jan-21,Texas,Houston,1,3
+2021,7-Jan-21,District of Columbia,Washington,0,5
+2021,6-Jan-21,Texas,Livingston,2,2
+2021,6-Jan-21,Virginia,Manassas,3,3
+2021,4-Jan-21,Louisiana,New Orleans,0,4
+2021,4-Jan-21,Florida,Tampa,0,5
+2021,4-Jan-21,Florida,Fort Lauderdale (Lauderhill),0,7
+2021,3-Jan-21,Oregon,Gresham,0,4
+2021,3-Jan-21,Texas,Houston,1,4
+2021,3-Jan-21,Florida,Miami,0,6
+2021,3-Jan-21,Louisiana,Shreveport,2,3
+2021,3-Jan-21,California,Santa Barbara,2,2
+2021,3-Jan-21,Florida,Miami,0,8
+2021,1-Jan-21,Arkansas,Fort Smith,0,7
+2021,1-Jan-21,Texas,Amarillo,1,3
+2021,1-Jan-21,Iowa,Sioux City,1,4
+2021,1-Jan-21,Illinois,Galesburg,0,4
+2020,31-Dec-20,Indiana,Indianapolis,1,3
+2020,31-Dec-20,Oregon,Happy Valley,0,4
+2020,26-Dec-20,Illinois,Rockford,3,3
+2020,26-Dec-20,Florida,Tampa,2,2
+2020,26-Dec-20,Massachusetts,Lynn,1,5
+2020,26-Dec-20,Florida,Miami,1,3
+2020,25-Dec-20,Florida,Boynton Beach,1,4
+2020,25-Dec-20,Arkansas,Atkins,5,0
+2020,24-Dec-20,Florida,Lakeland,1,4
+2020,22-Dec-20,Mississippi,Meridian,5,0
+2020,20-Dec-20,Connecticut,Bridgeport,2,2
+2020,19-Dec-20,Illinois,Chicago,0,6
+2020,13-Dec-20,West Virginia,Elkview,4,0
+2020,12-Dec-20,California,San Bernardino,1,3
+2020,12-Dec-20,New York,Copiague,2,2
+2020,12-Dec-20,New York,Brooklyn,0,4
+2020,12-Dec-20,Maryland,Hyattsville (Landover),2,2
+2020,10-Dec-20,Georgia,Tifton,0,4
+2020,10-Dec-20,Mississippi,Jackson,0,5
+2020,8-Dec-20,West Virginia,Williamsburg,6,0
+2020,8-Dec-20,Louisiana,Lacombe,2,3
+2020,6-Dec-20,Texas,Venus,0,6
+2020,5-Dec-20,California,Hayward,1,3
+2020,5-Dec-20,North Carolina,Autryville,0,6
+2020,4-Dec-20,Illinois,Chicago,0,4
+2020,1-Dec-20,Pennsylvania,Morrisville,1,3
+2020,30-Nov-20,Alaska,Palmer,4,0
+2020,29-Nov-20,Mississippi,Grenada,0,11
+2020,29-Nov-20,Tennessee,Memphis,2,3
+2020,28-Nov-20,South Carolina,Aiken,1,10
+2020,28-Nov-20,South Carolina,Conway,0,5
+2020,28-Nov-20,Louisiana,New Orleans,0,4
+2020,27-Nov-20,Georgia,Macon,1,5
+2020,27-Nov-20,Ohio,Toledo,0,6
+2020,26-Nov-20,Nevada,Henderson,1,5
+2020,22-Nov-20,New York,Brooklyn,1,6
+2020,22-Nov-20,New Jersey,Trenton,0,4
+2020,22-Nov-20,Illinois,Chicago,1,3
+2020,22-Nov-20,Louisiana,New Orleans,1,3
+2020,21-Nov-20,Illinois,Chicago,0,6
+2020,21-Nov-20,Arizona,Phoenix,1,4
+2020,21-Nov-20,Nebraska,Bellevue,2,2
+2020,20-Nov-20,Wisconsin,Milwaukee (Wauwatosa),0,8
+2020,19-Nov-20,Florida,Haines City,1,3
+2020,18-Nov-20,Texas,Houston,3,2
+2020,18-Nov-20,South Carolina,Florence,0,4
+2020,17-Nov-20,Tennessee,Jackson,0,4
+2020,16-Nov-20,Florida,Miami,0,4
+2020,16-Nov-20,Illinois,Chicago,0,4
+2020,16-Nov-20,Illinois,Chicago,0,4
+2020,15-Nov-20,Louisiana,Shreveport,0,5
+2020,15-Nov-20,Georgia,Jonesboro,2,2
+2020,14-Nov-20,South Carolina,Sumter,3,1
+2020,14-Nov-20,Missouri,Fulton,0,4
+2020,14-Nov-20,Ohio,Cincinnati,0,4
+2020,14-Nov-20,California,Riverside,2,3
+2020,12-Nov-20,Florida,Tampa,2,4
+2020,12-Nov-20,North Carolina,Gastonia,0,6
+2020,10-Nov-20,Florida,Tampa,1,7
+2020,9-Nov-20,Texas,Fort Worth,0,4
+2020,8-Nov-20,Virginia,Virginia Beach,0,4
+2020,8-Nov-20,Tennessee,Nashville,0,8
+2020,7-Nov-20,Kansas,Ogden,0,4
+2020,7-Nov-20,South Carolina,Rock Hill,1,3
+2020,6-Nov-20,Louisiana,New Orleans,2,2
+2020,5-Nov-20,Ohio,Toledo,3,2
+2020,4-Nov-20,Missouri,Jefferson City,0,4
+2020,3-Nov-20,Nevada,Henderson,4,1
+2020,2-Nov-20,Ohio,Mansfield,0,5
+2020,1-Nov-20,Arizona,Tucson,2,2
+2020,1-Nov-20,South Carolina,Hollywood,0,6
+2020,1-Nov-20,Indiana,Evansville,0,4
+2020,1-Nov-20,Oklahoma,Oklahoma City,1,3
+2020,1-Nov-20,North Carolina,Winston Salem (Winston-salem),1,3
+2020,1-Nov-20,New Jersey,Atlantic City,1,4
+2020,31-Oct-20,California,Sacramento,0,4
+2020,31-Oct-20,Washington,Sumner,0,5
+2020,31-Oct-20,California,Anaheim,0,4
+2020,31-Oct-20,Nevada,North Las Vegas,0,4
+2020,31-Oct-20,Maryland,College Park,0,7
+2020,30-Oct-20,Maryland,Waldorf,1,3
+2020,30-Oct-20,Illinois,Chicago,1,3
+2020,29-Oct-20,Florida,Winter Garden,0,4
+2020,28-Oct-20,Virginia,Roanoke,0,4
+2020,28-Oct-20,New Jersey,Newark,1,3
+2020,25-Oct-20,Texas,Fort Worth,2,3
+2020,25-Oct-20,Texas,San Antonio,1,3
+2020,25-Oct-20,North Carolina,Raleigh,1,3
+2020,24-Oct-20,Mississippi,Greenwood,2,8
+2020,22-Oct-20,Louisiana,Rayne,0,5
+2020,22-Oct-20,Florida,Miami,1,3
+2020,22-Oct-20,Massachusetts,Boston,0,4
+2020,22-Oct-20,Maryland,Baltimore,0,4
+2020,21-Oct-20,New York,Brooklyn,1,5
+2020,21-Oct-20,Mississippi,Canton,2,2
+2020,20-Oct-20,Texas,Houston,3,1
+2020,19-Oct-20,Ohio,Mansfield,0,5
+2020,19-Oct-20,Louisiana,New Orleans,1,3
+2020,18-Oct-20,Maryland,Annapolis,1,3
+2020,18-Oct-20,Illinois,Chicago,1,4
+2020,18-Oct-20,Tennessee,Nashville,0,4
+2020,17-Oct-20,New York,Lockport,1,5
+2020,17-Oct-20,South Carolina,Rock Hill,0,5
+2020,16-Oct-20,California,San Jose,2,4
+2020,16-Oct-20,Florida,Orlando,3,1
+2020,16-Oct-20,Arizona,Mesa,1,6
+2020,16-Oct-20,California,San Francisco,1,3
+2020,15-Oct-20,Louisiana,Lafayette,2,2
+2020,15-Oct-20,Maryland,Baltimore,0,7
+2020,14-Oct-20,Pennsylvania,Philadelphia,0,4
+2020,12-Oct-20,South Carolina,Myrtle Beach,2,3
+2020,11-Oct-20,Georgia,Atlanta,0,4
+2020,10-Oct-20,Illinois,Chicago,1,3
+2020,10-Oct-20,South Carolina,Kingstree,0,8
+2020,10-Oct-20,Missouri,Saint Louis (Jennings),2,2
+2020,8-Oct-20,Pennsylvania,Philadelphia,1,6
+2020,7-Oct-20,Alaska,Anchorage,1,4
+2020,7-Oct-20,New York,Brooklyn,1,3
+2020,5-Oct-20,District of Columbia,Washington,1,3
+2020,4-Oct-20,Georgia,Atlanta,1,5
+2020,4-Oct-20,Indiana,Indianapolis,3,4
+2020,3-Oct-20,Tennessee,Clarksville,0,5
+2020,3-Oct-20,California,Sacramento,1,3
+2020,2-Oct-20,California,Los Angeles,0,4
+2020,2-Oct-20,Washington,Seattle,0,4
+2020,1-Oct-20,Michigan,Detroit,0,5
+2020,30-Sep-20,North Carolina,Greensboro,0,4
+2020,30-Sep-20,Florida,Jacksonville,0,4
+2020,30-Sep-20,Wisconsin,Milwaukee,0,7
+2020,29-Sep-20,Pennsylvania,Philadelphia,0,5
+2020,29-Sep-20,Ohio,Painesville,2,2
+2020,28-Sep-20,Michigan,Detroit,0,6
+2020,27-Sep-20,Ohio,Sandusky,1,3
+2020,27-Sep-20,California,San Bernardino,1,3
+2020,27-Sep-20,Tennessee,Nashville,0,4
+2020,26-Sep-20,Pennsylvania,Philadelphia,0,4
+2020,26-Sep-20,Alabama,Enterprise,1,3
+2020,26-Sep-20,Iowa,Waterloo,2,6
+2020,26-Sep-20,Illinois,Chicago,0,4
+2020,26-Sep-20,Missouri,Saint Louis,0,5
+2020,25-Sep-20,Pennsylvania,Philadelphia,0,4
+2020,23-Sep-20,Georgia,Hampton,1,3
+2020,23-Sep-20,Minnesota,Minneapolis,0,5
+2020,21-Sep-20,Ohio,Struthers,1,4
+2020,20-Sep-20,New York,Corona (Queens),0,4
+2020,20-Sep-20,Connecticut,Stamford,1,3
+2020,19-Sep-20,New York,Buffalo,1,4
+2020,19-Sep-20,Illinois,Chicago,0,4
+2020,19-Sep-20,Illinois,Chicago,0,4
+2020,19-Sep-20,New Jersey,Plainfield,0,4
+2020,19-Sep-20,New York,Rochester,2,14
+2020,19-Sep-20,New Jersey,Paterson,0,5
+2020,19-Sep-20,Arkansas,West Memphis,0,5
+2020,18-Sep-20,Arkansas,Little Rock,0,4
+2020,16-Sep-20,Pennsylvania,Philadelphia,2,3
+2020,15-Sep-20,California,San Jose,2,4
+2020,15-Sep-20,Illinois,Chicago,0,5
+2020,14-Sep-20,Louisiana,Baker,0,4
+2020,13-Sep-20,Michigan,Grand Rapids,0,7
+2020,13-Sep-20,Tennessee,Beechgrove,3,3
+2020,13-Sep-20,Florida,Tampa,0,4
+2020,13-Sep-20,Illinois,Chicago,1,3
+2020,13-Sep-20,New Jersey,New Brunswick,2,7
+2020,12-Sep-20,Illinois,Chicago,2,4
+2020,12-Sep-20,North Carolina,Wilson,0,5
+2020,12-Sep-20,Pennsylvania,Philadelphia,0,4
+2020,11-Sep-20,Louisiana,Donaldsonville,0,5
+2020,10-Sep-20,Louisiana,New Orleans,3,2
+2020,8-Sep-20,Maryland,Baltimore,0,5
+2020,7-Sep-20,Louisiana,New Orleans,0,4
+2020,7-Sep-20,New York,Brooklyn,0,5
+2020,7-Sep-20,California,Aguanga,7,0
+2020,7-Sep-20,Indiana,Indianapolis,1,4
+2020,6-Sep-20,Georgia,Sparta,1,6
+2020,6-Sep-20,Illinois,Chicago,0,4
+2020,6-Sep-20,Tennessee,Memphis,0,4
+2020,6-Sep-20,Colorado,Commerce City,0,4
+2020,6-Sep-20,Missouri,Kansas City,0,6
+2020,6-Sep-20,Missouri,Saint Louis,1,3
+2020,6-Sep-20,Louisiana,New Iberia,0,5
+2020,6-Sep-20,Maryland,Baltimore,0,4
+2020,5-Sep-20,Texas,Houston,0,4
+2020,5-Sep-20,Maryland,Baltimore,1,3
+2020,5-Sep-20,Florida,Williston,0,6
+2020,5-Sep-20,Arkansas,Little Rock,0,4
+2020,3-Sep-20,South Carolina,Anderson,1,3
+2020,3-Sep-20,Florida,Miami,1,3
+2020,3-Sep-20,Arkansas,Hensley,1,3
+2020,3-Sep-20,Pennsylvania,Philadelphia,0,6
+2020,3-Sep-20,Arkansas,Little Rock,0,4
+2020,2-Sep-20,Pennsylvania,Philadelphia,2,2
+2020,2-Sep-20,Georgia,Albany,1,3
+2020,2-Sep-20,California,Oakland,0,4
+2020,31-Aug-20,Pennsylvania,Philadelphia,0,5
+2020,31-Aug-20,Florida,Tallahassee,0,4
+2020,30-Aug-20,Kentucky,Lexington,0,7
+2020,30-Aug-20,Illinois,Zion,1,3
+2020,30-Aug-20,Texas,San Antonio,2,2
+2020,30-Aug-20,New York,Buffalo,1,4
+2020,30-Aug-20,Pennsylvania,Philadelphia,0,4
+2020,30-Aug-20,Illinois,Chicago,1,4
+2020,30-Aug-20,Kentucky,Madisonville,0,5
+2020,29-Aug-20,Nevada,Las Vegas,2,2
+2020,29-Aug-20,Illinois,Rock Island,1,5
+2020,28-Aug-20,Minnesota,Minneapolis,0,4
+2020,28-Aug-20,Pennsylvania,Chester,1,3
+2020,28-Aug-20,Texas,Dallas,1,4
+2020,27-Aug-20,Oregon,Portland,1,3
+2020,26-Aug-20,Michigan,Pontiac,3,1
+2020,26-Aug-20,South Carolina,Hilton Head Island,0,4
+2020,26-Aug-20,Pennsylvania,Philadelphia,0,4
+2020,25-Aug-20,Virginia,Norfolk,0,5
+2020,25-Aug-20,New York,Rochester,0,4
+2020,24-Aug-20,Michigan,Detroit,0,4
+2020,24-Aug-20,California,Sacramento,1,3
+2020,24-Aug-20,Florida,West Palm Beach,0,4
+2020,24-Aug-20,Virginia,Richmond,1,4
+2020,23-Aug-20,Tennessee,Somerville,1,4
+2020,23-Aug-20,Arkansas,Pine Bluff,0,7
+2020,23-Aug-20,New York,Brooklyn,1,3
+2020,23-Aug-20,Colorado,Pueblo,0,6
+2020,23-Aug-20,Illinois,Champaign,0,4
+2020,23-Aug-20,Illinois,Chicago,0,4
+2020,22-Aug-20,Illinois,Rockford,1,3
+2020,22-Aug-20,Alabama,Bessemer (Hueytown),1,3
+2020,19-Aug-20,Pennsylvania,Philadelphia,0,4
+2020,19-Aug-20,Illinois,Chicago,0,6
+2020,18-Aug-20,Pennsylvania,Philadelphia,1,4
+2020,18-Aug-20,New York,Corona (Queens),0,4
+2020,18-Aug-20,Illinois,Rockford,0,4
+2020,17-Aug-20,Ohio,Cleveland,0,5
+2020,17-Aug-20,New York,Brooklyn,0,4
+2020,17-Aug-20,Texas,Dayton,3,2
+2020,16-Aug-20,Kentucky,Lexington,1,3
+2020,16-Aug-20,Ohio,Cincinnati,1,3
+2020,16-Aug-20,Ohio,Cincinnati,2,9
+2020,16-Aug-20,Ohio,Cincinnati,1,3
+2020,16-Aug-20,Colorado,Denver,2,4
+2020,16-Aug-20,Oklahoma,Oklahoma City,0,4
+2020,15-Aug-20,Michigan,Belleville,4,0
+2020,15-Aug-20,Pennsylvania,Philadelphia,0,5
+2020,15-Aug-20,New York,Rochester,0,5
+2020,15-Aug-20,Connecticut,New Haven,1,5
+2020,15-Aug-20,Alabama,Troy,2,3
+2020,14-Aug-20,New York,New York (Manhattan),0,4
+2020,12-Aug-20,New Jersey,Newark,1,4
+2020,12-Aug-20,Ohio,Dayton,1,3
+2020,11-Aug-20,California,Torrance,0,5
+2020,9-Aug-20,Colorado,Denver,0,9
+2020,9-Aug-20,Ohio,Toledo,0,6
+2020,9-Aug-20,District of Columbia,Washington,1,21
+2020,9-Aug-20,Mississippi,Jackson,0,4
+2020,9-Aug-20,Texas,Houston,0,4
+2020,8-Aug-20,Kentucky,Paducah,1,4
+2020,8-Aug-20,Pennsylvania,Philadelphia,0,6
+2020,8-Aug-20,Massachusetts,Brockton,0,5
+2020,8-Aug-20,Alabama,Birmingham (Ensley),1,5
+2020,8-Aug-20,New York,Albany,1,3
+2020,6-Aug-20,California,Oakland,1,3
+2020,5-Aug-20,Illinois,Chicago,0,4
+2020,4-Aug-20,Wisconsin,Madison,0,4
+2020,4-Aug-20,District of Columbia,Washington,0,4
+2020,4-Aug-20,California,Beverly Hills,1,4
+2020,4-Aug-20,Missouri,Saint Louis,1,3
+2020,4-Aug-20,Connecticut,Hartford,1,5
+2020,3-Aug-20,New York,Bronx,0,4
+2020,2-Aug-20,Pennsylvania,Philadelphia,0,4
+2020,2-Aug-20,New Jersey,Newark,0,5
+2020,1-Aug-20,Illinois,Chicago,1,4
+2020,1-Aug-20,Texas,Pointblank,2,3
+2020,1-Aug-20,Colorado,Denver,1,4
+2020,1-Aug-20,Alabama,Montgomery,0,4
+2020,31-Jul-20,Pennsylvania,Philadelphia,1,3
+2020,30-Jul-20,Florida,Tampa,0,5
+2020,30-Jul-20,Florida,Miami Gardens,0,5
+2020,29-Jul-20,Michigan,Detroit,0,4
+2020,29-Jul-20,Ohio,Elyria,5,0
+2020,29-Jul-20,Missouri,Saint Louis,3,2
+2020,28-Jul-20,Delaware,Wilmington,2,2
+2020,28-Jul-20,Wisconsin,Milwaukee,0,4
+2020,27-Jul-20,Washington,Federal Way,1,3
+2020,27-Jul-20,Illinois,Chicago,1,4
+2020,26-Jul-20,Texas,Mount Enterprise,0,4
+2020,26-Jul-20,Michigan,Flint,1,3
+2020,26-Jul-20,Kentucky,Louisville,1,3
+2020,26-Jul-20,Colorado,Commerce City,1,3
+2020,26-Jul-20,Arkansas,Magnolia,0,4
+2020,25-Jul-20,Michigan,Flint,0,6
+2020,25-Jul-20,North Carolina,Raleigh,0,4
+2020,25-Jul-20,Florida,Miami,1,3
+2020,25-Jul-20,Colorado,Denver,2,3
+2020,25-Jul-20,Texas,Dallas,0,4
+2020,25-Jul-20,California,Manteca,0,7
+2020,24-Jul-20,Georgia,Atlanta,2,2
+2020,23-Jul-20,Virginia,Fairfield,1,3
+2020,23-Jul-20,Virginia,Petersburg,0,4
+2020,23-Jul-20,Illinois,Chicago,2,4
+2020,22-Jul-20,Michigan,Warren,0,4
+2020,21-Jul-20,Illinois,Chicago,0,15
+2020,20-Jul-20,Virginia,Richmond,1,4
+2020,20-Jul-20,Illinois,Chicago,0,5
+2020,19-Jul-20,Michigan,Detroit,1,3
+2020,19-Jul-20,Nebraska,Omaha,0,8
+2020,19-Jul-20,Illinois,Chicago,2,3
+2020,19-Jul-20,Illinois,Peoria,0,13
+2020,19-Jul-20,District of Columbia,Washington,1,8
+2020,19-Jul-20,Michigan,Detroit,4,0
+2020,18-Jul-20,Illinois,Chicago,1,4
+2020,17-Jul-20,Ohio,Columbus,0,4
+2020,17-Jul-20,Florida,Madison,0,4
+2020,16-Jul-20,Tennessee,Nashville,0,5
+2020,15-Jul-20,Louisiana,Shreveport,1,3
+2020,15-Jul-20,New York,Brooklyn,1,5
+2020,14-Jul-20,Missouri,Saint Joseph,0,5
+2020,14-Jul-20,North Carolina,Durham,0,8
+2020,13-Jul-20,New York,Brooklyn,0,6
+2020,13-Jul-20,Kentucky,Louisville,1,3
+2020,13-Jul-20,Washington,Kent,0,6
+2020,12-Jul-20,New York,Brooklyn,1,3
+2020,12-Jul-20,Louisiana,Baton Rouge,1,7
+2020,12-Jul-20,Michigan,Lansing,0,5
+2020,12-Jul-20,Florida,Fort Lauderdale,2,2
+2020,12-Jul-20,Illinois,Chicago,1,3
+2020,12-Jul-20,Illinois,Chicago,1,4
+2020,12-Jul-20,Mississippi,Como,2,4
+2020,11-Jul-20,New York,Rochester,0,6
+2020,11-Jul-20,Delaware,Wilmington,0,5
+2020,7-Jul-20,Virginia,Alexandria,0,5
+2020,7-Jul-20,New Jersey,Paterson,4,3
+2020,6-Jul-20,Illinois,Chicago,0,6
+2020,5-Jul-20,South Carolina,Greenville,2,8
+2020,5-Jul-20,Illinois,Chicago,0,4
+2020,5-Jul-20,Iowa,Davenport,1,3
+2020,5-Jul-20,New York,New York (Manhattan),0,5
+2020,5-Jul-20,Arkansas,Helena,1,3
+2020,5-Jul-20,Georgia,Atlanta,2,13
+2020,5-Jul-20,Missouri,Columbia,2,3
+2020,5-Jul-20,Wisconsin,Milwaukee,0,4
+2020,5-Jul-20,Texas,Houston,0,4
+2020,5-Jul-20,Maryland,Cambridge,0,4
+2020,5-Jul-20,Illinois,Chicago,1,5
+2020,5-Jul-20,Pennsylvania,Ephrata,0,4
+2020,5-Jul-20,Illinois,Freeport,1,5
+2020,5-Jul-20,Mississippi,Greenville,0,4
+2020,5-Jul-20,Michigan,Detroit,2,4
+2020,4-Jul-20,Maryland,Temple Hills (Marlow Heights),1,3
+2020,4-Jul-20,Georgia,Atlanta,0,5
+2020,4-Jul-20,Massachusetts,Lynn,1,4
+2020,4-Jul-20,Michigan,Detroit,2,3
+2020,4-Jul-20,South Carolina,Barnwell,0,5
+2020,4-Jul-20,Illinois,Chicago,1,3
+2020,4-Jul-20,Illinois,Chicago,4,4
+2020,4-Jul-20,Mississippi,Jackson,1,3
+2020,4-Jul-20,Louisiana,Baton Rouge,0,4
+2020,3-Jul-20,Alabama,Birmingham (Hoover),1,3
+2020,3-Jul-20,Maryland,Baltimore,0,4
+2020,2-Jul-20,California,Delano,2,3
+2020,2-Jul-20,Massachusetts,Somerville,0,4
+2020,2-Jul-20,New Jersey,Paterson,1,4
+2020,1-Jul-20,California,Oakland,0,4
+2020,1-Jul-20,Louisiana,Lake Charles,0,4
+2020,30-Jun-20,Iowa,Davenport,0,5
+2020,30-Jun-20,Georgia,Atlanta,1,4
+2020,30-Jun-20,Massachusetts,Boston,1,3
+2020,30-Jun-20,Illinois,Chicago,0,4
+2020,30-Jun-20,Ohio,Dayton,0,4
+2020,30-Jun-20,Arkansas,Greenbrier,0,4
+2020,29-Jun-20,California,Sylmar,0,4
+2020,29-Jun-20,South Dakota,Sioux Falls,1,3
+2020,28-Jun-20,Pennsylvania,Philadelphia,2,2
+2020,28-Jun-20,Alabama,Akron,0,7
+2020,27-Jun-20,Illinois,Chicago,2,2
+2020,27-Jun-20,California,Red Bluff,3,4
+2020,27-Jun-20,Illinois,Peoria,0,4
+2020,27-Jun-20,New York,Brooklyn,0,4
+2020,27-Jun-20,Arkansas,Blytheville,3,1
+2020,26-Jun-20,Colorado,Aurora,0,5
+2020,26-Jun-20,California,Fresno,0,4
+2020,26-Jun-20,Arizona,Phoenix,0,4
+2020,25-Jun-20,Pennsylvania,Philadelphia,0,4
+2020,25-Jun-20,Connecticut,Bridgeport,1,3
+2020,24-Jun-20,Tennessee,Jackson,0,4
+2020,23-Jun-20,Illinois,Chicago,0,4
+2020,23-Jun-20,Florida,Lake Worth,0,5
+2020,22-Jun-20,North Carolina,Charlotte,4,5
+2020,22-Jun-20,California,San Francisco,0,5
+2020,22-Jun-20,New York,Brooklyn,0,5
+2020,22-Jun-20,Minnesota,Minneapolis,0,4
+2020,22-Jun-20,Minnesota,Minneapolis,0,4
+2020,22-Jun-20,Illinois,Chicago,0,5
+2020,22-Jun-20,Illinois,Chicago,0,4
+2020,22-Jun-20,Ohio,Columbus,1,4
+2020,21-Jun-20,New York,Buffalo,0,4
+2020,21-Jun-20,Texas,Austin,0,5
+2020,21-Jun-20,Minnesota,Minneapolis,0,11
+2020,21-Jun-20,Alabama,Auburn,0,4
+2020,21-Jun-20,Texas,Corpus Christi,1,3
+2020,21-Jun-20,Wisconsin,Milwaukee,0,5
+2020,21-Jun-20,Illinois,Chicago,1,3
+2020,20-Jun-20,New York,Bronx,0,4
+2020,20-Jun-20,New York,Syracuse,1,8
+2020,20-Jun-20,Michigan,Detroit,0,4
+2020,20-Jun-20,New Jersey,Jersey City,1,4
+2020,20-Jun-20,Michigan,Saginaw,1,3
+2020,20-Jun-20,Wisconsin,Janesville,0,5
+2020,20-Jun-20,North Carolina,Pinetops,2,2
+2020,20-Jun-20,Kansas,Wichita,0,5
+2020,20-Jun-20,New York,Bronx,0,4
+2020,18-Jun-20,New York,Albany,0,7
+2020,17-Jun-20,Illinois,Chicago,0,4
+2020,16-Jun-20,Iowa,Fort Dodge,2,2
+2020,15-Jun-20,Illinois,Chicago,0,4
+2020,14-Jun-20,Minnesota,Minneapolis,1,6
+2020,14-Jun-20,Kentucky,Louisville,1,4
+2020,14-Jun-20,Louisiana,Lafayette,0,5
+2020,14-Jun-20,Louisiana,Lake Charles,0,4
+2020,14-Jun-20,Louisiana,New Orleans,2,2
+2020,13-Jun-20,Arkansas,Rison,0,4
+2020,13-Jun-20,California,Hesperia,0,5
+2020,13-Jun-20,Missouri,Saint Louis,2,4
+2020,13-Jun-20,Maryland,Baltimore,0,5
+2020,13-Jun-20,Georgia,Atlanta,2,5
+2020,13-Jun-20,District of Columbia,Washington,2,5
+2020,13-Jun-20,New York,Wyandanch,1,7
+2020,12-Jun-20,Pennsylvania,Philadelphia,0,6
+2020,12-Jun-20,New York,Bronx,1,3
+2020,12-Jun-20,Texas,San Antonio,0,8
+2020,11-Jun-20,Virginia,Richmond,0,4
+2020,11-Jun-20,District of Columbia,Washington,0,7
+2020,11-Jun-20,Louisiana,Monroe,6,0
+2020,11-Jun-20,Texas,Houston,2,4
+2020,10-Jun-20,California,Paso Robles,2,4
+2020,10-Jun-20,California,Sacramento,1,4
+2020,10-Jun-20,Ohio,Toledo,1,3
+2020,9-Jun-20,North Carolina,Scotland Neck,0,5
+2020,9-Jun-20,Pennsylvania,Philadelphia,1,6
+2020,9-Jun-20,California,Vallejo,2,3
+2020,8-Jun-20,New York,Brooklyn,0,4
+2020,8-Jun-20,Tennessee,Memphis,0,4
+2020,7-Jun-20,Tennessee,Dyersburg,0,5
+2020,7-Jun-20,Arkansas,Hope,0,5
+2020,7-Jun-20,Illinois,Robbins,1,3
+2020,7-Jun-20,Missouri,Sikeston,2,7
+2020,7-Jun-20,Illinois,Chicago,1,3
+2020,7-Jun-20,Illinois,Chicago,0,6
+2020,6-Jun-20,California,Sacramento,1,4
+2020,6-Jun-20,Missouri,Kansas City,1,4
+2020,6-Jun-20,Mississippi,Drew,0,5
+2020,6-Jun-20,Ohio,Ironton,0,4
+2020,5-Jun-20,Colorado,Denver,0,4
+2020,4-Jun-20,Alabama,Valhermoso Springs,7,0
+2020,2-Jun-20,Texas,Dallas,1,3
+2020,2-Jun-20,Wisconsin,Racine,0,5
+2020,2-Jun-20,Illinois,Chicago,0,4
+2020,1-Jun-20,Missouri,Saint Louis,0,4
+2020,31-May-20,Mississippi,Gulfport,1,5
+2020,31-May-20,Pennsylvania,Philadelphia,0,4
+2020,30-May-20,New Jersey,Paterson,0,4
+2020,30-May-20,District of Columbia,Washington,0,4
+2020,30-May-20,Texas,Houston,1,4
+2020,30-May-20,Florida,Altha,2,4
+2020,30-May-20,North Carolina,Gastonia,1,5
+2020,29-May-20,Virginia,Portsmouth,0,5
+2020,28-May-20,Kentucky,Louisville,0,7
+2020,28-May-20,Tennessee,Memphis,0,4
+2020,28-May-20,Pennsylvania,Philadelphia,1,3
+2020,27-May-20,Massachusetts,Boston,1,4
+2020,27-May-20,Ohio,Cleveland,1,3
+2020,27-May-20,California,San Jose,0,5
+2020,27-May-20,Pennsylvania,Philadelphia,0,4
+2020,26-May-20,Mississippi,Vicksburg,0,4
+2020,26-May-20,Pennsylvania,Philadelphia,0,4
+2020,26-May-20,Illinois,Chicago,2,2
+2020,26-May-20,California,Los Angeles,0,5
+2020,26-May-20,South Carolina,Bowman,3,5
+2020,25-May-20,Louisiana,Lake Charles,0,6
+2020,24-May-20,Missouri,Saint Louis,0,4
+2020,24-May-20,South Carolina,Myrtle Beach,0,4
+2020,24-May-20,Alabama,Danville,3,1
+2020,23-May-20,Texas,Houston,0,4
+2020,23-May-20,Illinois,Rock Island,1,4
+2020,23-May-20,South Carolina,Jonesville,2,5
+2020,23-May-20,North Carolina,Charlotte,0,6
+2020,23-May-20,Michigan,Flint,1,3
+2020,23-May-20,Florida,Fort Lauderdale (Lauderhill),0,5
+2020,23-May-20,Florida,Daytona Beach,0,6
+2020,23-May-20,Illinois,Chicago,1,3
+2020,23-May-20,Mississippi,Jackson,1,4
+2020,22-May-20,Ohio,Cleveland,1,3
+2020,20-May-20,Texas,Houston,2,3
+2020,19-May-20,Illinois,Decatur,0,5
+2020,18-May-20,California,Bakersfield,0,5
+2020,17-May-20,South Carolina,Charleston,0,4
+2020,17-May-20,South Carolina,Saint Matthews,4,1
+2020,16-May-20,Louisiana,Bogalusa,0,13
+2020,15-May-20,Florida,Gainesville,0,5
+2020,15-May-20,Pennsylvania,Philadelphia,0,4
+2020,14-May-20,New Mexico,Albuquerque,0,5
+2020,13-May-20,Illinois,Rockford,1,4
+2020,13-May-20,Kentucky,Garrison,1,4
+2020,13-May-20,Tennessee,Memphis,0,4
+2020,11-May-20,Alabama,Montgomery,0,4
+2020,10-May-20,Louisiana,Baton Rouge,0,5
+2020,10-May-20,Texas,Fort Worth,0,5
+2020,10-May-20,Texas,Katy,0,6
+2020,9-May-20,Missouri,Saint Louis,0,4
+2020,7-May-20,Maryland,Baltimore,0,4
+2020,6-May-20,Texas,Houston,3,1
+2020,6-May-20,Tennessee,Memphis,2,2
+2020,6-May-20,Georgia,Albany,1,3
+2020,3-May-20,Ohio,Columbus,0,4
+2020,3-May-20,Florida,Jacksonville,1,3
+2020,3-May-20,Illinois,Chicago,0,5
+2020,2-May-20,Pennsylvania,Philadelphia,0,4
+2020,29-Apr-20,Indiana,Indianapolis,0,4
+2020,27-Apr-20,Wisconsin,Milwaukee,5,0
+2020,26-Apr-20,New York,Troy,0,4
+2020,26-Apr-20,North Carolina,Salisbury,1,4
+2020,25-Apr-20,Florida,Orlando,1,4
+2020,25-Apr-20,Tennessee,Memphis,0,7
+2020,24-Apr-20,Texas,Houston,3,1
+2020,24-Apr-20,Indiana,Fort Wayne,0,4
+2020,18-Apr-20,Maryland,Hyattsville,2,2
+2020,17-Apr-20,North Carolina,Greensboro,1,3
+2020,17-Apr-20,Massachusetts,Springfield,1,4
+2020,16-Apr-20,Pennsylvania,Philadelphia,0,4
+2020,15-Apr-20,Mississippi,Jackson,1,3
+2020,11-Apr-20,California,Bakersfield,0,6
+2020,10-Apr-20,Michigan,Muskegon,0,4
+2020,8-Apr-20,Michigan,Detroit,0,4
+2020,8-Apr-20,South Carolina,Greenwood,1,3
+2020,8-Apr-20,Alaska,Anchorage,0,4
+2020,7-Apr-20,Illinois,Chicago,1,3
+2020,5-Apr-20,New York,Brooklyn,0,4
+2020,5-Apr-20,California,Los Angeles,1,3
+2020,5-Apr-20,South Carolina,Lancaster,1,4
+2020,4-Apr-20,Texas,Lubbock,2,2
+2020,4-Apr-20,Texas,Vidor,0,4
+2020,4-Apr-20,Florida,Hialeah,1,4
+2020,3-Apr-20,Kentucky,Louisville,0,4
+2020,31-Mar-20,Georgia,Macon,3,1
+2020,30-Mar-20,Pennsylvania,Philadelphia,0,5
+2020,29-Mar-20,Georgia,Atlanta,0,4
+2020,28-Mar-20,Maryland,Baltimore,1,3
+2020,23-Mar-20,Texas,San Antonio,0,4
+2020,22-Mar-20,South Carolina,Hanahan,0,4
+2020,20-Mar-20,Virginia,Norfolk,0,4
+2020,20-Mar-20,Missouri,Saint Louis,0,4
+2020,18-Mar-20,Florida,Jacksonville,1,4
+2020,17-Mar-20,Maryland,Baltimore,0,7
+2020,15-Mar-20,North Carolina,Moncure,7,0
+2020,15-Mar-20,Missouri,Springfield,5,2
+2020,14-Mar-20,Michigan,Saginaw,2,2
+2020,14-Mar-20,New Mexico,Albuquerque,1,3
+2020,13-Mar-20,Illinois,Rockford,0,4
+2020,13-Mar-20,Louisiana,New Orleans (Algiers),0,5
+2020,10-Mar-20,Pennsylvania,Chester,2,2
+2020,8-Mar-20,Illinois,South Holland,0,4
+2020,8-Mar-20,Maryland,Rosedale,1,5
+2020,8-Mar-20,California,Ceres,1,3
+2020,7-Mar-20,Ohio,Cleveland,1,18
+2020,7-Mar-20,New Mexico,Albuquerque,0,4
+2020,7-Mar-20,Illinois,Chicago,0,7
+2020,6-Mar-20,District of Columbia,Washington,0,6
+2020,4-Mar-20,California,Tulare,1,5
+2020,29-Feb-20,Missouri,Kansas City,1,4
+2020,29-Feb-20,Colorado,Brighton,0,5
+2020,26-Feb-20,Wisconsin,Milwaukee,6,0
+2020,25-Feb-20,Illinois,Chicago,1,4
+2020,23-Feb-20,North Carolina,Clarkton,3,1
+2020,23-Feb-20,Texas,Houston,0,7
+2020,20-Feb-20,Idaho,Caldwell,2,3
+2020,20-Feb-20,North Carolina,Greensboro,0,4
+2020,17-Feb-20,Mississippi,Port Gibson,2,2
+2020,16-Feb-20,Connecticut,Hartford,1,5
+2020,16-Feb-20,Florida,Pensacola,1,4
+2020,15-Feb-20,Louisiana,New Orleans,0,4
+2020,15-Feb-20,Tennessee,Memphis,0,7
+2020,14-Feb-20,Illinois,Chicago,0,6
+2020,10-Feb-20,Delaware,Dover,1,4
+2020,8-Feb-20,Texas,Houston,1,3
+2020,5-Feb-20,Indiana,Indianapolis,4,0
+2020,3-Feb-20,Maine,Machias,3,1
+2020,3-Feb-20,California,Lebec,1,5
+2020,1-Feb-20,Mississippi,Philadelphia,0,4
+2020,31-Jan-20,California,Delano,1,4
+2020,31-Jan-20,Louisiana,Shreveport,0,4
+2020,31-Jan-20,Florida,Boynton Beach,1,3
+2020,30-Jan-20,California,Merced,0,4
+2020,27-Jan-20,Connecticut,Bridgeport,0,4
+2020,26-Jan-20,Missouri,Cape Girardeau,0,5
+2020,26-Jan-20,New York,Newburgh,3,1
+2020,26-Jan-20,North Carolina,Salisbury,0,6
+2020,26-Jan-20,South Carolina,Hartsville,3,3
+2020,24-Jan-20,North Carolina,Vanceboro,5,0
+2020,22-Jan-20,Washington,Seattle,1,7
+2020,19-Jan-20,Missouri,Kansas City,2,15
+2020,19-Jan-20,Tennessee,Memphis,1,4
+2020,19-Jan-20,Texas,San Antonio,2,5
+2020,18-Jan-20,Texas,South Houston,2,2
+2020,17-Jan-20,Utah,Grantsville,4,1
+2020,16-Jan-20,Illinois,Chicago,0,5
+2020,11-Jan-20,Colorado,Aurora,0,5
+2020,8-Jan-20,Mississippi,Bay Saint Louis,2,2
+2020,5-Jan-20,Georgia,Atlanta,0,4
+2020,4-Jan-20,Florida,Ocala,1,3
+2020,2-Jan-20,New York,Brooklyn,0,4
+2020,1-Jan-20,Ohio,Cleveland,0,4
+2020,1-Jan-20,West Virginia,Huntington,0,7
+2020,1-Jan-20,Missouri,Saint Louis,3,2
+2019,29-Dec-19,Illinois,Danville,0,5
+2019,29-Dec-19,New York,Buffalo,1,3
+2019,29-Dec-19,California,Ceres,0,5
+2019,27-Dec-19,California,Modesto,1,3
+2019,27-Dec-19,Texas,Houston,2,7
+2019,27-Dec-19,Georgia,Kennesaw,0,4
+2019,26-Dec-19,Florida,Saint Petersburg,0,5
+2019,25-Dec-19,California,Oakland,0,4
+2019,25-Dec-19,Iowa,Coralville,1,3
+2019,25-Dec-19,Virginia,Richmond,1,3
+2019,24-Dec-19,Louisiana,New Orleans,0,4
+2019,24-Dec-19,Illinois,Joliet,0,5
+2019,24-Dec-19,North Carolina,High Point,0,6
+2019,22-Dec-19,Maryland,Baltimore,0,7
+2019,22-Dec-19,Minnesota,Minneapolis (Spring Lake Park),1,7
+2019,22-Dec-19,Illinois,Chicago,0,13
+2019,21-Dec-19,Louisiana,Edgard,0,4
+2019,20-Dec-19,Mississippi,Waynesboro,1,6
+2019,20-Dec-19,Alabama,Tuskegee,2,2
+2019,18-Dec-19,Texas,San Antonio,0,4
+2019,17-Dec-19,Montana,Great Falls,4,1
+2019,15-Dec-19,Georgia,Columbus,1,4
+2019,14-Dec-19,California,Ivanhoe,0,4
+2019,12-Dec-19,Missouri,Saint Louis (Moline Acres),1,3
+2019,10-Dec-19,New Jersey,Jersey City,6,3
+2019,8-Dec-19,Texas,Desoto,2,3
+2019,8-Dec-19,Louisiana,New Orleans,1,4
+2019,6-Dec-19,Florida,Pensacola,4,8
+2019,4-Dec-19,Alabama,Montgomery,2,2
+2019,1-Dec-19,Michigan,Kalamazoo,1,3
+2019,1-Dec-19,Louisiana,Cotton Valley,2,3
+2019,1-Dec-19,Louisiana,New Orleans,2,2
+2019,1-Dec-19,Illinois,Aurora,1,4
+2019,1-Dec-19,Louisiana,New Orleans,0,12
+2019,30-Nov-19,Arkansas,Hensley,0,5
+2019,29-Nov-19,Texas,Amarillo,0,7
+2019,27-Nov-19,New York,Bronx,0,5
+2019,25-Nov-19,Florida,Brownsville,2,2
+2019,24-Nov-19,Alabama,Birmingham,1,4
+2019,24-Nov-19,California,Los Angeles,0,6
+2019,24-Nov-19,Louisiana,Cottonport,2,2
+2019,23-Nov-19,California,Los Angeles,0,4
+2019,23-Nov-19,Louisiana,Tallulah,1,6
+2019,21-Nov-19,California,Long Beach,0,5
+2019,21-Nov-19,Washington,Everett,0,4
+2019,20-Nov-19,California,Richmond,0,4
+2019,18-Nov-19,New Jersey,Newark,1,4
+2019,17-Nov-19,California,Fresno,4,6
+2019,17-Nov-19,Ohio,Cleveland,0,4
+2019,16-Nov-19,California,San Diego,6,0
+2019,14-Nov-19,California,Santa Clarita,3,3
+2019,11-Nov-19,Florida,Belle Glade,0,4
+2019,10-Nov-19,Missouri,Kansas City,0,4
+2019,10-Nov-19,Tennessee,Memphis,1,4
+2019,10-Nov-19,Arkansas,Little Rock,0,4
+2019,9-Nov-19,Michigan,Detroit,0,4
+2019,9-Nov-19,Georgia,Vidalia,0,4
+2019,8-Nov-19,North Carolina,Raleigh,1,3
+2019,7-Nov-19,Georgia,Conyers,2,3
+2019,4-Nov-19,Texas,Houston,1,4
+2019,3-Nov-19,Ohio,Toledo,0,4
+2019,3-Nov-19,Texas,Nacogdoches,1,3
+2019,2-Nov-19,Louisiana,Baton Rouge,0,4
+2019,2-Nov-19,Michigan,Detroit,1,4
+2019,1-Nov-19,Arizona,Tolleson,0,5
+2019,1-Nov-19,Texas,San Angelo,0,4
+2019,31-Oct-19,California,Orinda,5,3
+2019,30-Oct-19,Pennsylvania,Philadelphia,4,0
+2019,29-Oct-19,Maryland,Baltimore,1,3
+2019,29-Oct-19,California,Long Beach,3,9
+2019,28-Oct-19,Maryland,Baltimore,1,3
+2019,27-Oct-19,Michigan,Detroit,0,4
+2019,27-Oct-19,Michigan,Lansing,1,4
+2019,26-Oct-19,Texas,Greenville,2,6
+2019,24-Oct-19,Oklahoma,Oklahoma City,2,2
+2019,22-Oct-19,Oklahoma,Oklahoma City (Midwest City),1,3
+2019,21-Oct-19,South Carolina,Sumter,0,4
+2019,20-Oct-19,Texas,Port Arthur,1,3
+2019,19-Oct-19,Pennsylvania,Duquesne,0,4
+2019,19-Oct-19,Texas,El Paso,1,4
+2019,15-Oct-19,Ohio,Columbus,0,4
+2019,13-Oct-19,Pennsylvania,Philadelphia,0,6
+2019,13-Oct-19,Ohio,Akron,0,4
+2019,12-Oct-19,New York,Brooklyn,4,3
+2019,12-Oct-19,Illinois,Chicago,5,0
+2019,12-Oct-19,Pennsylvania,Philadelphia,1,3
+2019,12-Oct-19,Maryland,Baltimore,1,3
+2019,12-Oct-19,Michigan,Eastpointe,1,5
+2019,10-Oct-19,Florida,Tampa,2,2
+2019,10-Oct-19,Pennsylvania,Philadelphia,0,5
+2019,9-Oct-19,Massachusetts,Lowell,0,5
+2019,9-Oct-19,Maryland,Baltimore,1,3
+2019,7-Oct-19,Massachusetts,Abington,5,0
+2019,6-Oct-19,Indiana,Evansville,0,5
+2019,6-Oct-19,Colorado,Denver,0,4
+2019,6-Oct-19,Kansas,Kansas City,4,5
+2019,5-Oct-19,Missouri,Saint Louis,0,5
+2019,3-Oct-19,North Carolina,Roxboro,1,3
+2019,3-Oct-19,Missouri,Marshall,1,3
+2019,1-Oct-19,Missouri,Saint Louis,0,4
+2019,29-Sep-19,Illinois,Round Lake (Round Lake Park),1,3
+2019,29-Sep-19,Wisconsin,Milwaukee,0,4
+2019,29-Sep-19,Florida,Jacksonville,0,4
+2019,29-Sep-19,Kansas,Claflin,0,4
+2019,29-Sep-19,Texas,Beaumont,4,0
+2019,24-Sep-19,Illinois,Chicago,1,3
+2019,23-Sep-19,Indiana,Gary,2,2
+2019,22-Sep-19,Missouri,Kansas City,0,5
+2019,21-Sep-19,Louisiana,New Orleans,0,4
+2019,21-Sep-19,South Carolina,Lancaster,2,8
+2019,21-Sep-19,Indiana,Indianapolis,0,6
+2019,21-Sep-19,Ohio,Cleveland,4,0
+2019,20-Sep-19,Louisiana,New Orleans,1,5
+2019,19-Sep-19,District of Columbia,Washington,1,5
+2019,18-Sep-19,Illinois,Chicago,3,1
+2019,18-Sep-19,California,Wilmington,2,2
+2019,16-Sep-19,Wyoming,Cheyenne,2,2
+2019,14-Sep-19,Missouri,Saint Louis,1,3
+2019,14-Sep-19,California,Oakland,1,4
+2019,14-Sep-19,Georgia,Lagrange,0,4
+2019,12-Sep-19,New Mexico,Albuquerque,1,4
+2019,12-Sep-19,New Mexico,Albuquerque,4,2
+2019,10-Sep-19,Illinois,Chicago,0,4
+2019,8-Sep-19,South Carolina,Sumter,2,2
+2019,8-Sep-19,Louisiana,Alexandria,1,3
+2019,7-Sep-19,North Carolina,Whiteville,3,1
+2019,4-Sep-19,Florida,Jacksonville,0,4
+2019,4-Sep-19,Louisiana,Marrero,2,2
+2019,2-Sep-19,Alabama,Elkmont,5,0
+2019,2-Sep-19,North Carolina,Greensboro,2,2
+2019,2-Sep-19,Illinois,Chicago,0,4
+2019,1-Sep-19,Connecticut,Hartford,1,3
+2019,1-Sep-19,North Carolina,Rocky Mount,0,4
+2019,1-Sep-19,Alabama,Valley,0,7
+2019,1-Sep-19,Ohio,Toledo,0,4
+2019,31-Aug-19,North Carolina,Charlotte,1,3
+2019,31-Aug-19,South Carolina,Moncks Corner,0,4
+2019,31-Aug-19,Texas,Odessa,8,23
+2019,31-Aug-19,Pennsylvania,Philadelphia,2,2
+2019,31-Aug-19,Maryland,Baltimore,0,4
+2019,31-Aug-19,Maryland,Frederick,0,4
+2019,31-Aug-19,Illinois,Chicago,2,3
+2019,30-Aug-19,Maryland,Baltimore,1,3
+2019,30-Aug-19,Alabama,Mobile,0,9
+2019,29-Aug-19,Maryland,Baltimore,1,3
+2019,25-Aug-19,New Mexico,Hobbs,3,4
+2019,25-Aug-19,Illinois,Chicago,1,3
+2019,24-Aug-19,Maryland,Temple Hills (Camp Springs),0,7
+2019,24-Aug-19,Massachusetts,Lynn,1,3
+2019,23-Aug-19,Texas,Houston,3,2
+2019,23-Aug-19,Georgia,Dublin,0,4
+2019,23-Aug-19,Missouri,Saint Louis,1,3
+2019,22-Aug-19,South Carolina,Columbia,2,2
+2019,22-Aug-19,California,Los Angeles,0,4
+2019,20-Aug-19,Georgia,Atlanta,0,4
+2019,18-Aug-19,Missouri,Kansas City,0,4
+2019,17-Aug-19,Texas,Houston,0,6
+2019,15-Aug-19,Alabama,Montgomery,2,3
+2019,15-Aug-19,Pennsylvania,Philadelphia,0,5
+2019,14-Aug-19,Pennsylvania,Philadelphia,0,6
+2019,13-Aug-19,Washington,Tacoma,2,3
+2019,12-Aug-19,Mississippi,Greenwood,0,4
+2019,11-Aug-19,Illinois,Chicago,0,6
+2019,10-Aug-19,Virginia,Richmond,0,4
+2019,10-Aug-19,California,San Francisco,0,4
+2019,9-Aug-19,Illinois,Chicago,0,4
+2019,7-Aug-19,Missouri,Saint Louis,3,1
+2019,5-Aug-19,New York,Brooklyn,0,4
+2019,4-Aug-19,Louisiana,Lake Charles,0,4
+2019,4-Aug-19,Illinois,Chicago,1,7
+2019,4-Aug-19,Tennessee,Memphis,1,3
+2019,4-Aug-19,Illinois,Chicago,0,7
+2019,4-Aug-19,Ohio,Dayton,10,17
+2019,3-Aug-19,Texas,El Paso,23,23
+2019,2-Aug-19,Virginia,Suffolk,2,3
+2019,30-Jul-19,Ohio,Columbus,0,5
+2019,28-Jul-19,Pennsylvania,Philadelphia,1,5
+2019,28-Jul-19,California,Gilroy,4,17
+2019,28-Jul-19,Wisconsin,Chippewa Falls,5,2
+2019,28-Jul-19,District of Columbia,Washington,0,4
+2019,28-Jul-19,Illinois,Chicago,0,4
+2019,27-Jul-19,Kansas,Wichita,1,3
+2019,27-Jul-19,New York,Brooklyn,1,11
+2019,26-Jul-19,Washington,Kennewick,1,3
+2019,25-Jul-19,California,Canoga Park,4,2
+2019,21-Jul-19,Illinois,Chicago,0,4
+2019,21-Jul-19,District of Columbia,Washington,0,4
+2019,20-Jul-19,Maryland,Baltimore,1,3
+2019,20-Jul-19,Pennsylvania,Clairton,0,4
+2019,20-Jul-19,Illinois,Chicago,0,7
+2019,18-Jul-19,Illinois,Chicago,1,3
+2019,17-Jul-19,Texas,Lubbock,1,3
+2019,16-Jul-19,Texas,San Antonio,0,4
+2019,15-Jul-19,Georgia,Atlanta,0,4
+2019,14-Jul-19,Illinois,Chicago,0,4
+2019,13-Jul-19,Illinois,Chicago,1,4
